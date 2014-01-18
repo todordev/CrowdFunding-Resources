@@ -1,1323 +1,2361 @@
 <?xml version="1.0" encoding="utf-8"?>
-<countries generator="crowdfunding">
+<countries generator="com_crowdfunding">
   <country>
     <id>1</id>
     <name>Afghanistan</name>
     <code>AF</code>
+    <code4>af_ZA</code4>
+    <latitude>33</latitude>
+    <longitude>65</longitude>
+    <timezone>Asia/Kabul</timezone>
   </country>
   <country>
     <id>2</id>
     <name>Albania</name>
     <code>AL</code>
+    <code4></code4>
+    <latitude>41</latitude>
+    <longitude>20</longitude>
+    <timezone>Europe/Tirane</timezone>
   </country>
   <country>
     <id>3</id>
     <name>Algeria</name>
     <code>DZ</code>
+    <code4></code4>
+    <latitude>28</latitude>
+    <longitude>3</longitude>
+    <timezone>Africa/Algiers</timezone>
   </country>
   <country>
     <id>4</id>
     <name>American Samoa</name>
     <code>AS</code>
+    <code4></code4>
+    <latitude>-14.3333</latitude>
+    <longitude>-170</longitude>
+    <timezone>Pacific/Pago_Pago</timezone>
   </country>
   <country>
     <id>5</id>
     <name>Andorra</name>
     <code>AD</code>
+    <code4></code4>
+    <latitude>42.5</latitude>
+    <longitude>1.5</longitude>
+    <timezone>Europe/Andorra</timezone>
   </country>
   <country>
     <id>6</id>
     <name>Angola</name>
     <code>AO</code>
+    <code4></code4>
+    <latitude>-12.5</latitude>
+    <longitude>18.5</longitude>
+    <timezone>Africa/Luanda</timezone>
   </country>
   <country>
     <id>7</id>
     <name>Anguilla</name>
     <code>AI</code>
-  </country>
-  <country>
-    <id>8</id>
-    <name>Antarctica</name>
-    <code>AQ</code>
+    <code4></code4>
+    <latitude>18.25</latitude>
+    <longitude>-63.1667</longitude>
+    <timezone>America/Anguilla</timezone>
   </country>
   <country>
     <id>9</id>
     <name>Antigua and Barbuda</name>
     <code>AG</code>
+    <code4></code4>
+    <latitude>17.05</latitude>
+    <longitude>-61.8</longitude>
+    <timezone>America/Antigua</timezone>
   </country>
   <country>
     <id>10</id>
     <name>Argentina</name>
     <code>AR</code>
+    <code4>ar_IT</code4>
+    <latitude>-34</latitude>
+    <longitude>-64</longitude>
+    <timezone>America/Argentina/Buenos_Aires</timezone>
   </country>
   <country>
     <id>11</id>
     <name>Armenia</name>
     <code>AM</code>
+    <code4>am_ET</code4>
+    <latitude>40</latitude>
+    <longitude>45</longitude>
+    <timezone>Asia/Yerevan</timezone>
   </country>
   <country>
     <id>12</id>
     <name>Aruba</name>
     <code>AW</code>
+    <code4></code4>
+    <latitude>12.5</latitude>
+    <longitude>-69.9667</longitude>
+    <timezone>America/Aruba</timezone>
   </country>
   <country>
     <id>13</id>
     <name>Australia</name>
     <code>AU</code>
+    <code4></code4>
+    <latitude>-27</latitude>
+    <longitude>133</longitude>
+    <timezone>Australia/Sydney</timezone>
   </country>
   <country>
     <id>14</id>
     <name>Austria</name>
     <code>AT</code>
+    <code4></code4>
+    <latitude>47.3333</latitude>
+    <longitude>13.3333</longitude>
+    <timezone>Europe/Vienna</timezone>
   </country>
   <country>
     <id>15</id>
     <name>Azerbaijan</name>
     <code>AZ</code>
+    <code4>az_AZ</code4>
+    <latitude>40.5</latitude>
+    <longitude>47.5</longitude>
+    <timezone>Asia/Baku</timezone>
   </country>
   <country>
     <id>16</id>
     <name>Bahamas</name>
     <code>BS</code>
+    <code4>bs_KS</code4>
+    <latitude>24.25</latitude>
+    <longitude>-76</longitude>
+    <timezone>America/Nassau</timezone>
   </country>
   <country>
     <id>17</id>
     <name>Bahrain</name>
     <code>BH</code>
+    <code4>ar_BH</code4>
+    <latitude>26</latitude>
+    <longitude>50.55</longitude>
+    <timezone>Asia/Bahrain</timezone>
   </country>
   <country>
     <id>18</id>
     <name>Bangladesh</name>
     <code>BD</code>
+    <code4></code4>
+    <latitude>24</latitude>
+    <longitude>90</longitude>
+    <timezone>Asia/Dhaka</timezone>
   </country>
   <country>
     <id>19</id>
     <name>Barbados</name>
     <code>BB</code>
+    <code4></code4>
+    <latitude>13.1667</latitude>
+    <longitude>-59.5333</longitude>
+    <timezone>America/Barbados</timezone>
   </country>
   <country>
     <id>20</id>
     <name>Belarus</name>
     <code>BY</code>
+    <code4></code4>
+    <latitude>53</latitude>
+    <longitude>28</longitude>
+    <timezone>Europe/Minsk</timezone>
   </country>
   <country>
     <id>21</id>
     <name>Belgium</name>
     <code>BE</code>
+    <code4>be_BY</code4>
+    <latitude>50.8333</latitude>
+    <longitude>4</longitude>
+    <timezone>Europe/Brussels</timezone>
   </country>
   <country>
     <id>22</id>
     <name>Belize</name>
     <code>BZ</code>
+    <code4></code4>
+    <latitude>17.25</latitude>
+    <longitude>-88.75</longitude>
+    <timezone>America/Belize</timezone>
   </country>
   <country>
     <id>23</id>
     <name>Benin</name>
     <code>BJ</code>
+    <code4></code4>
+    <latitude>9.5</latitude>
+    <longitude>2.25</longitude>
+    <timezone>Africa/Porto-Novo</timezone>
   </country>
   <country>
     <id>24</id>
     <name>Bermuda</name>
     <code>BM</code>
+    <code4></code4>
+    <latitude>32.3333</latitude>
+    <longitude>-64.75</longitude>
+    <timezone>Atlantic/Bermuda</timezone>
   </country>
   <country>
     <id>25</id>
     <name>Bhutan</name>
     <code>BT</code>
+    <code4></code4>
+    <latitude>27.5</latitude>
+    <longitude>90.5</longitude>
+    <timezone>Asia/Thimphu</timezone>
   </country>
   <country>
     <id>26</id>
     <name>Bolivia</name>
     <code>BO</code>
+    <code4></code4>
+    <latitude>-17</latitude>
+    <longitude>-65</longitude>
+    <timezone>America/La_Paz</timezone>
   </country>
   <country>
     <id>27</id>
     <name>Bosnia and Herzegovina</name>
     <code>BA</code>
+    <code4></code4>
+    <latitude>44</latitude>
+    <longitude>18</longitude>
+    <timezone>Europe/Sarajevo</timezone>
   </country>
   <country>
     <id>28</id>
     <name>Botswana</name>
     <code>BW</code>
+    <code4></code4>
+    <latitude>-22</latitude>
+    <longitude>24</longitude>
+    <timezone>Africa/Gaborone</timezone>
   </country>
   <country>
     <id>29</id>
     <name>Bouvet Island</name>
     <code>BV</code>
+    <code4></code4>
+    <latitude>-54.4333</latitude>
+    <longitude>3.4</longitude>
+    <timezone>Antarctica/Syowa</timezone>
   </country>
   <country>
     <id>30</id>
     <name>Brazil</name>
     <code>BR</code>
+    <code4></code4>
+    <latitude>-10</latitude>
+    <longitude>-55</longitude>
+    <timezone>America/Sao_Paulo</timezone>
   </country>
   <country>
     <id>31</id>
     <name>British Antarctic Territory</name>
     <code>BQ</code>
+    <code4></code4>
+    <latitude>12.1784</latitude>
+    <longitude>-68.2385</longitude>
+    <timezone>America/Kralendijk</timezone>
   </country>
   <country>
     <id>32</id>
     <name>British Indian Ocean Territory</name>
     <code>IO</code>
+    <code4></code4>
+    <latitude>-6</latitude>
+    <longitude>71.5</longitude>
+    <timezone>Indian/Chagos</timezone>
   </country>
   <country>
     <id>33</id>
     <name>British Virgin Islands</name>
     <code>VG</code>
+    <code4></code4>
+    <latitude>18.5</latitude>
+    <longitude>-64.5</longitude>
+    <timezone>America/Tortola</timezone>
   </country>
   <country>
     <id>34</id>
     <name>Brunei</name>
     <code>BN</code>
+    <code4>bn_IN</code4>
+    <latitude>4.5</latitude>
+    <longitude>114.667</longitude>
+    <timezone>Asia/Brunei</timezone>
   </country>
   <country>
     <id>35</id>
     <name>Bulgaria</name>
     <code>BG</code>
+    <code4>bg_BG</code4>
+    <latitude>43</latitude>
+    <longitude>25</longitude>
+    <timezone>Europe/Sofia</timezone>
   </country>
   <country>
     <id>36</id>
     <name>Burkina Faso</name>
     <code>BF</code>
+    <code4></code4>
+    <latitude>13</latitude>
+    <longitude>-2</longitude>
+    <timezone>Africa/Ouagadougou</timezone>
   </country>
   <country>
     <id>37</id>
     <name>Burundi</name>
     <code>BI</code>
+    <code4></code4>
+    <latitude>-3.5</latitude>
+    <longitude>30</longitude>
+    <timezone>Africa/Bujumbura</timezone>
   </country>
   <country>
     <id>38</id>
     <name>Cambodia</name>
     <code>KH</code>
+    <code4></code4>
+    <latitude>13</latitude>
+    <longitude>105</longitude>
+    <timezone>Asia/Phnom_Penh</timezone>
   </country>
   <country>
     <id>39</id>
     <name>Cameroon</name>
     <code>CM</code>
+    <code4></code4>
+    <latitude>6</latitude>
+    <longitude>12</longitude>
+    <timezone>Africa/Douala</timezone>
   </country>
   <country>
     <id>40</id>
     <name>Canada</name>
     <code>CA</code>
+    <code4>ca_ES</code4>
+    <latitude>60</latitude>
+    <longitude>-95</longitude>
+    <timezone>America/Toronto</timezone>
   </country>
   <country>
     <id>41</id>
     <name>Canton and Enderbury Islands</name>
     <code>CT</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>42</id>
     <name>Cape Verde</name>
     <code>CV</code>
+    <code4></code4>
+    <latitude>16</latitude>
+    <longitude>-24</longitude>
+    <timezone>Atlantic/Cape_Verde</timezone>
   </country>
   <country>
     <id>43</id>
     <name>Cayman Islands</name>
     <code>KY</code>
+    <code4>ky_KG</code4>
+    <latitude>19.5</latitude>
+    <longitude>-80.5</longitude>
+    <timezone>America/Cayman</timezone>
   </country>
   <country>
     <id>44</id>
     <name>Central African Republic</name>
     <code>CF</code>
+    <code4>fr_CA</code4>
+    <latitude>7</latitude>
+    <longitude>21</longitude>
+    <timezone>Africa/Bangui</timezone>
   </country>
   <country>
     <id>45</id>
     <name>Chad</name>
     <code>TD</code>
+    <code4></code4>
+    <latitude>15</latitude>
+    <longitude>19</longitude>
+    <timezone>Africa/Ndjamena</timezone>
   </country>
   <country>
     <id>46</id>
     <name>Chile</name>
     <code>CL</code>
+    <code4></code4>
+    <latitude>-30</latitude>
+    <longitude>-71</longitude>
+    <timezone>America/Santiago</timezone>
   </country>
   <country>
     <id>47</id>
     <name>China</name>
     <code>CN</code>
+    <code4></code4>
+    <latitude>35</latitude>
+    <longitude>105</longitude>
+    <timezone>Asia/Shanghai</timezone>
   </country>
   <country>
     <id>48</id>
     <name>Christmas Island</name>
     <code>CX</code>
+    <code4></code4>
+    <latitude>-10.5</latitude>
+    <longitude>105.667</longitude>
+    <timezone>Indian/Christmas</timezone>
   </country>
   <country>
     <id>49</id>
     <name>Cocos [Keeling] Islands</name>
     <code>CC</code>
+    <code4></code4>
+    <latitude>-12.5</latitude>
+    <longitude>96.8333</longitude>
+    <timezone>Indian/Cocos</timezone>
   </country>
   <country>
     <id>50</id>
     <name>Colombia</name>
     <code>CO</code>
+    <code4></code4>
+    <latitude>4</latitude>
+    <longitude>-72</longitude>
+    <timezone>America/Bogota</timezone>
   </country>
   <country>
     <id>51</id>
     <name>Comoros</name>
     <code>KM</code>
+    <code4>cb_KH</code4>
+    <latitude>-12.1667</latitude>
+    <longitude>44.25</longitude>
+    <timezone>Indian/Comoro</timezone>
   </country>
   <country>
     <id>52</id>
     <name>Congo - Brazzaville</name>
     <code>CG</code>
+    <code4></code4>
+    <latitude>-1</latitude>
+    <longitude>15</longitude>
+    <timezone>Africa/Brazzaville</timezone>
   </country>
   <country>
     <id>53</id>
     <name>Congo - Kinshasa</name>
     <code>CD</code>
+    <code4></code4>
+    <latitude>0</latitude>
+    <longitude>25</longitude>
+    <timezone>Africa/Kinshasa</timezone>
   </country>
   <country>
     <id>54</id>
     <name>Cook Islands</name>
     <code>CK</code>
+    <code4></code4>
+    <latitude>-21.2333</latitude>
+    <longitude>-159.767</longitude>
+    <timezone>Pacific/Rarotonga</timezone>
   </country>
   <country>
     <id>55</id>
     <name>Costa Rica</name>
     <code>CR</code>
+    <code4></code4>
+    <latitude>10</latitude>
+    <longitude>-84</longitude>
+    <timezone>America/Costa_Rica</timezone>
   </country>
   <country>
     <id>56</id>
     <name>Croatia</name>
     <code>HR</code>
+    <code4>hr_HR</code4>
+    <latitude>45.1667</latitude>
+    <longitude>15.5</longitude>
+    <timezone>Europe/Zagreb</timezone>
   </country>
   <country>
     <id>57</id>
     <name>Cuba</name>
     <code>CU</code>
+    <code4></code4>
+    <latitude>21.5</latitude>
+    <longitude>-80</longitude>
+    <timezone>America/Havana</timezone>
   </country>
   <country>
     <id>58</id>
     <name>Cyprus</name>
     <code>CY</code>
+    <code4>cy_GB</code4>
+    <latitude>35</latitude>
+    <longitude>33</longitude>
+    <timezone>Asia/Nicosia</timezone>
   </country>
   <country>
     <id>59</id>
     <name>Czech Republic</name>
     <code>CZ</code>
+    <code4></code4>
+    <latitude>49.75</latitude>
+    <longitude>15.5</longitude>
+    <timezone>Europe/Prague</timezone>
   </country>
   <country>
     <id>60</id>
     <name>Côte d’Ivoire</name>
     <code>CI</code>
+    <code4></code4>
+    <latitude>8</latitude>
+    <longitude>-5</longitude>
+    <timezone>Africa/Abidjan</timezone>
   </country>
   <country>
     <id>61</id>
     <name>Denmark</name>
     <code>DK</code>
+    <code4></code4>
+    <latitude>56</latitude>
+    <longitude>10</longitude>
+    <timezone>Europe/Copenhagen</timezone>
   </country>
   <country>
     <id>62</id>
     <name>Djibouti</name>
     <code>DJ</code>
+    <code4></code4>
+    <latitude>11.5</latitude>
+    <longitude>43</longitude>
+    <timezone>Africa/Djibouti</timezone>
   </country>
   <country>
     <id>63</id>
     <name>Dominica</name>
     <code>DM</code>
+    <code4></code4>
+    <latitude>15.4167</latitude>
+    <longitude>-61.3333</longitude>
+    <timezone>America/Dominica</timezone>
   </country>
   <country>
     <id>64</id>
     <name>Dominican Republic</name>
     <code>DO</code>
+    <code4></code4>
+    <latitude>19</latitude>
+    <longitude>-70.6667</longitude>
+    <timezone>America/Santo_Domingo</timezone>
   </country>
   <country>
     <id>65</id>
     <name>Dronning Maud Land</name>
     <code>NQ</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>66</id>
-    <name>East Germany</name>
-    <code>DD</code>
+    <name>Ecuador</name>
+    <code>EC</code>
+    <code4></code4>
+    <latitude>-2</latitude>
+    <longitude>-77.5</longitude>
+    <timezone>America/Guayaquil</timezone>
   </country>
   <country>
     <id>67</id>
-    <name>Ecuador</name>
-    <code>EC</code>
+    <name>Egypt</name>
+    <code>EG</code>
+    <code4></code4>
+    <latitude>27</latitude>
+    <longitude>30</longitude>
+    <timezone>Africa/Cairo</timezone>
   </country>
   <country>
     <id>68</id>
-    <name>Egypt</name>
-    <code>EG</code>
+    <name>El Salvador</name>
+    <code>SV</code>
+    <code4>sv_SE</code4>
+    <latitude>13.8333</latitude>
+    <longitude>-88.9167</longitude>
+    <timezone>America/El_Salvador</timezone>
   </country>
   <country>
     <id>69</id>
-    <name>El Salvador</name>
-    <code>SV</code>
+    <name>Equatorial Guinea</name>
+    <code>GQ</code>
+    <code4></code4>
+    <latitude>2</latitude>
+    <longitude>10</longitude>
+    <timezone>Africa/Malabo</timezone>
   </country>
   <country>
     <id>70</id>
-    <name>Equatorial Guinea</name>
-    <code>GQ</code>
+    <name>Eritrea</name>
+    <code>ER</code>
+    <code4></code4>
+    <latitude>15</latitude>
+    <longitude>39</longitude>
+    <timezone>Africa/Asmara</timezone>
   </country>
   <country>
     <id>71</id>
-    <name>Eritrea</name>
-    <code>ER</code>
+    <name>Estonia</name>
+    <code>EE</code>
+    <code4></code4>
+    <latitude>59</latitude>
+    <longitude>26</longitude>
+    <timezone>Europe/Tallinn</timezone>
   </country>
   <country>
     <id>72</id>
-    <name>Estonia</name>
-    <code>EE</code>
+    <name>Ethiopia</name>
+    <code>ET</code>
+    <code4>et_EE</code4>
+    <latitude>8</latitude>
+    <longitude>38</longitude>
+    <timezone>Africa/Addis_Ababa</timezone>
   </country>
   <country>
     <id>73</id>
-    <name>Ethiopia</name>
-    <code>ET</code>
+    <name>Falkland Islands</name>
+    <code>FK</code>
+    <code4></code4>
+    <latitude>-51.75</latitude>
+    <longitude>-59</longitude>
+    <timezone>Atlantic/Stanley</timezone>
   </country>
   <country>
     <id>74</id>
-    <name>Falkland Islands</name>
-    <code>FK</code>
+    <name>Faroe Islands</name>
+    <code>FO</code>
+    <code4>fo_FO</code4>
+    <latitude>62</latitude>
+    <longitude>-7</longitude>
+    <timezone>Atlantic/Faroe</timezone>
   </country>
   <country>
     <id>75</id>
-    <name>Faroe Islands</name>
-    <code>FO</code>
+    <name>Fiji</name>
+    <code>FJ</code>
+    <code4></code4>
+    <latitude>-18</latitude>
+    <longitude>175</longitude>
+    <timezone>Pacific/Fiji</timezone>
   </country>
   <country>
     <id>76</id>
-    <name>Fiji</name>
-    <code>FJ</code>
+    <name>Finland</name>
+    <code>FI</code>
+    <code4>fi_FI</code4>
+    <latitude>64</latitude>
+    <longitude>26</longitude>
+    <timezone>Europe/Helsinki</timezone>
   </country>
   <country>
     <id>77</id>
-    <name>Finland</name>
-    <code>FI</code>
+    <name>France</name>
+    <code>FR</code>
+    <code4>fr_FR</code4>
+    <latitude>46</latitude>
+    <longitude>2</longitude>
+    <timezone>Europe/Paris</timezone>
   </country>
   <country>
     <id>78</id>
-    <name>France</name>
-    <code>FR</code>
+    <name>French Guiana</name>
+    <code>GF</code>
+    <code4></code4>
+    <latitude>4</latitude>
+    <longitude>-53</longitude>
+    <timezone>America/Cayenne</timezone>
   </country>
   <country>
     <id>79</id>
-    <name>French Guiana</name>
-    <code>GF</code>
+    <name>French Polynesia</name>
+    <code>PF</code>
+    <code4></code4>
+    <latitude>-15</latitude>
+    <longitude>-140</longitude>
+    <timezone>Pacific/Marquesas</timezone>
   </country>
   <country>
     <id>80</id>
-    <name>French Polynesia</name>
-    <code>PF</code>
+    <name>French Southern Territories</name>
+    <code>TF</code>
+    <code4></code4>
+    <latitude>-43</latitude>
+    <longitude>67</longitude>
+    <timezone>Indian/Kerguelen</timezone>
   </country>
   <country>
     <id>81</id>
-    <name>French Southern Territories</name>
-    <code>TF</code>
+    <name>French Southern and Antarctic Territories</name>
+    <code>FQ</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>82</id>
-    <name>French Southern and Antarctic Territories</name>
-    <code>FQ</code>
+    <name>Gabon</name>
+    <code>GA</code>
+    <code4>ga_IE</code4>
+    <latitude>-1</latitude>
+    <longitude>11.75</longitude>
+    <timezone>Africa/Libreville</timezone>
   </country>
   <country>
     <id>83</id>
-    <name>Gabon</name>
-    <code>GA</code>
+    <name>Gambia</name>
+    <code>GM</code>
+    <code4></code4>
+    <latitude>13.4667</latitude>
+    <longitude>-16.5667</longitude>
+    <timezone>Africa/Banjul</timezone>
   </country>
   <country>
     <id>84</id>
-    <name>Gambia</name>
-    <code>GM</code>
+    <name>Georgia</name>
+    <code>GE</code>
+    <code4></code4>
+    <latitude>42</latitude>
+    <longitude>43.5</longitude>
+    <timezone>Asia/Tbilisi</timezone>
   </country>
   <country>
     <id>85</id>
-    <name>Georgia</name>
-    <code>GE</code>
+    <name>Germany</name>
+    <code>DE</code>
+    <code4>de_DE</code4>
+    <latitude>51</latitude>
+    <longitude>9</longitude>
+    <timezone>Europe/Berlin</timezone>
   </country>
   <country>
     <id>86</id>
-    <name>Germany</name>
-    <code>DE</code>
+    <name>Ghana</name>
+    <code>GH</code>
+    <code4></code4>
+    <latitude>8</latitude>
+    <longitude>-2</longitude>
+    <timezone>Africa/Accra</timezone>
   </country>
   <country>
     <id>87</id>
-    <name>Ghana</name>
-    <code>GH</code>
+    <name>Gibraltar</name>
+    <code>GI</code>
+    <code4></code4>
+    <latitude>36.1833</latitude>
+    <longitude>-5.3667</longitude>
+    <timezone>Europe/Gibraltar</timezone>
   </country>
   <country>
     <id>88</id>
-    <name>Gibraltar</name>
-    <code>GI</code>
+    <name>Greece</name>
+    <code>GR</code>
+    <code4></code4>
+    <latitude>39</latitude>
+    <longitude>22</longitude>
+    <timezone>Europe/Athens</timezone>
   </country>
   <country>
     <id>89</id>
-    <name>Greece</name>
-    <code>GR</code>
+    <name>Greenland</name>
+    <code>GL</code>
+    <code4>gl_ES</code4>
+    <latitude>72</latitude>
+    <longitude>-40</longitude>
+    <timezone>America/Godthab</timezone>
   </country>
   <country>
     <id>90</id>
-    <name>Greenland</name>
-    <code>GL</code>
+    <name>Grenada</name>
+    <code>GD</code>
+    <code4>gd_GB</code4>
+    <latitude>12.1167</latitude>
+    <longitude>-61.6667</longitude>
+    <timezone>America/Grenada</timezone>
   </country>
   <country>
     <id>91</id>
-    <name>Grenada</name>
-    <code>GD</code>
+    <name>Guadeloupe</name>
+    <code>GP</code>
+    <code4></code4>
+    <latitude>16.25</latitude>
+    <longitude>-61.5833</longitude>
+    <timezone>America/Guadeloupe</timezone>
   </country>
   <country>
     <id>92</id>
-    <name>Guadeloupe</name>
-    <code>GP</code>
+    <name>Guam</name>
+    <code>GU</code>
+    <code4>gu_IN</code4>
+    <latitude>13.4667</latitude>
+    <longitude>144.783</longitude>
+    <timezone>Pacific/Guam</timezone>
   </country>
   <country>
     <id>93</id>
-    <name>Guam</name>
-    <code>GU</code>
+    <name>Guatemala</name>
+    <code>GT</code>
+    <code4></code4>
+    <latitude>15.5</latitude>
+    <longitude>-90.25</longitude>
+    <timezone>America/Guatemala</timezone>
   </country>
   <country>
     <id>94</id>
-    <name>Guatemala</name>
-    <code>GT</code>
+    <name>Guernsey</name>
+    <code>GG</code>
+    <code4></code4>
+    <latitude>49.4657</latitude>
+    <longitude>-2.58528</longitude>
+    <timezone>Europe/Guernsey</timezone>
   </country>
   <country>
     <id>95</id>
-    <name>Guernsey</name>
-    <code>GG</code>
+    <name>Guinea</name>
+    <code>GN</code>
+    <code4></code4>
+    <latitude>11</latitude>
+    <longitude>-10</longitude>
+    <timezone>Africa/Conakry</timezone>
   </country>
   <country>
     <id>96</id>
-    <name>Guinea</name>
-    <code>GN</code>
+    <name>Guinea-Bissau</name>
+    <code>GW</code>
+    <code4></code4>
+    <latitude>12</latitude>
+    <longitude>-15</longitude>
+    <timezone>Africa/Bissau</timezone>
   </country>
   <country>
     <id>97</id>
-    <name>Guinea-Bissau</name>
-    <code>GW</code>
+    <name>Guyana</name>
+    <code>GY</code>
+    <code4></code4>
+    <latitude>5</latitude>
+    <longitude>-59</longitude>
+    <timezone>America/Guyana</timezone>
   </country>
   <country>
     <id>98</id>
-    <name>Guyana</name>
-    <code>GY</code>
+    <name>Haiti</name>
+    <code>HT</code>
+    <code4></code4>
+    <latitude>19</latitude>
+    <longitude>-72.4167</longitude>
+    <timezone>America/Port-au-Prince</timezone>
   </country>
   <country>
     <id>99</id>
-    <name>Haiti</name>
-    <code>HT</code>
+    <name>Heard Island and McDonald Islands</name>
+    <code>HM</code>
+    <code4></code4>
+    <latitude>-53.1</latitude>
+    <longitude>72.5167</longitude>
+    <timezone></timezone>
   </country>
   <country>
     <id>100</id>
-    <name>Heard Island and McDonald Islands</name>
-    <code>HM</code>
+    <name>Honduras</name>
+    <code>HN</code>
+    <code4></code4>
+    <latitude>15</latitude>
+    <longitude>-86.5</longitude>
+    <timezone>America/Tegucigalpa</timezone>
   </country>
   <country>
     <id>101</id>
-    <name>Honduras</name>
-    <code>HN</code>
+    <name>Hong Kong SAR China</name>
+    <code>HK</code>
+    <code4></code4>
+    <latitude>22.25</latitude>
+    <longitude>114.167</longitude>
+    <timezone>Asia/Hong_Kong</timezone>
   </country>
   <country>
     <id>102</id>
-    <name>Hong Kong SAR China</name>
-    <code>HK</code>
+    <name>Hungary</name>
+    <code>HU</code>
+    <code4>hu_HU</code4>
+    <latitude>47</latitude>
+    <longitude>20</longitude>
+    <timezone>Europe/Budapest</timezone>
   </country>
   <country>
     <id>103</id>
-    <name>Hungary</name>
-    <code>HU</code>
+    <name>Iceland</name>
+    <code>IS</code>
+    <code4>is_IS</code4>
+    <latitude>65</latitude>
+    <longitude>-18</longitude>
+    <timezone>Atlantic/Reykjavik</timezone>
   </country>
   <country>
     <id>104</id>
-    <name>Iceland</name>
-    <code>IS</code>
+    <name>India</name>
+    <code>IN</code>
+    <code4></code4>
+    <latitude>20</latitude>
+    <longitude>77</longitude>
+    <timezone>Asia/Kolkata</timezone>
   </country>
   <country>
     <id>105</id>
-    <name>India</name>
-    <code>IN</code>
+    <name>Indonesia</name>
+    <code>ID</code>
+    <code4>id_ID</code4>
+    <latitude>-5</latitude>
+    <longitude>120</longitude>
+    <timezone>Asia/Jakarta</timezone>
   </country>
   <country>
     <id>106</id>
-    <name>Indonesia</name>
-    <code>ID</code>
+    <name>Iran</name>
+    <code>IR</code>
+    <code4></code4>
+    <latitude>32</latitude>
+    <longitude>53</longitude>
+    <timezone>Asia/Tehran</timezone>
   </country>
   <country>
     <id>107</id>
-    <name>Iran</name>
-    <code>IR</code>
+    <name>Iraq</name>
+    <code>IQ</code>
+    <code4></code4>
+    <latitude>33</latitude>
+    <longitude>44</longitude>
+    <timezone>Asia/Baghdad</timezone>
   </country>
   <country>
     <id>108</id>
-    <name>Iraq</name>
-    <code>IQ</code>
+    <name>Ireland</name>
+    <code>IE</code>
+    <code4></code4>
+    <latitude>53</latitude>
+    <longitude>-8</longitude>
+    <timezone>Europe/Dublin</timezone>
   </country>
   <country>
     <id>109</id>
-    <name>Ireland</name>
-    <code>IE</code>
+    <name>Isle of Man</name>
+    <code>IM</code>
+    <code4></code4>
+    <latitude>54.2361</latitude>
+    <longitude>-4.54806</longitude>
+    <timezone>Europe/Isle_of_Man</timezone>
   </country>
   <country>
     <id>110</id>
-    <name>Isle of Man</name>
-    <code>IM</code>
+    <name>Israel</name>
+    <code>IL</code>
+    <code4></code4>
+    <latitude>31.5</latitude>
+    <longitude>34.75</longitude>
+    <timezone>Asia/Jerusalem</timezone>
   </country>
   <country>
     <id>111</id>
-    <name>Israel</name>
-    <code>IL</code>
+    <name>Italy</name>
+    <code>IT</code>
+    <code4>it_IT</code4>
+    <latitude>42.8333</latitude>
+    <longitude>12.8333</longitude>
+    <timezone>Europe/Rome</timezone>
   </country>
   <country>
     <id>112</id>
-    <name>Italy</name>
-    <code>IT</code>
+    <name>Jamaica</name>
+    <code>JM</code>
+    <code4></code4>
+    <latitude>18.25</latitude>
+    <longitude>-77.5</longitude>
+    <timezone>America/Jamaica</timezone>
   </country>
   <country>
     <id>113</id>
-    <name>Jamaica</name>
-    <code>JM</code>
+    <name>Japan</name>
+    <code>JP</code>
+    <code4></code4>
+    <latitude>36</latitude>
+    <longitude>138</longitude>
+    <timezone>Asia/Tokyo</timezone>
   </country>
   <country>
     <id>114</id>
-    <name>Japan</name>
-    <code>JP</code>
+    <name>Jersey</name>
+    <code>JE</code>
+    <code4></code4>
+    <latitude>49.2138</latitude>
+    <longitude>-2.13577</longitude>
+    <timezone>Europe/Jersey</timezone>
   </country>
   <country>
     <id>115</id>
-    <name>Jersey</name>
-    <code>JE</code>
+    <name>Johnston Island</name>
+    <code>JT</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>116</id>
-    <name>Johnston Island</name>
-    <code>JT</code>
+    <name>Jordan</name>
+    <code>JO</code>
+    <code4></code4>
+    <latitude>31</latitude>
+    <longitude>36</longitude>
+    <timezone>Asia/Amman</timezone>
   </country>
   <country>
     <id>117</id>
-    <name>Jordan</name>
-    <code>JO</code>
+    <name>Kazakhstan</name>
+    <code>KZ</code>
+    <code4></code4>
+    <latitude>48</latitude>
+    <longitude>68</longitude>
+    <timezone>Asia/Almaty</timezone>
   </country>
   <country>
     <id>118</id>
-    <name>Kazakhstan</name>
-    <code>KZ</code>
+    <name>Kenya</name>
+    <code>KE</code>
+    <code4></code4>
+    <latitude>1</latitude>
+    <longitude>38</longitude>
+    <timezone>Africa/Nairobi</timezone>
   </country>
   <country>
     <id>119</id>
-    <name>Kenya</name>
-    <code>KE</code>
+    <name>Kiribati</name>
+    <code>KI</code>
+    <code4></code4>
+    <latitude>1.4167</latitude>
+    <longitude>173</longitude>
+    <timezone>Pacific/Tarawa</timezone>
   </country>
   <country>
     <id>120</id>
-    <name>Kiribati</name>
-    <code>KI</code>
+    <name>Kuwait</name>
+    <code>KW</code>
+    <code4></code4>
+    <latitude>29.3375</latitude>
+    <longitude>47.6581</longitude>
+    <timezone>Asia/Kuwait</timezone>
   </country>
   <country>
     <id>121</id>
-    <name>Kuwait</name>
-    <code>KW</code>
+    <name>Kyrgyzstan</name>
+    <code>KG</code>
+    <code4></code4>
+    <latitude>41</latitude>
+    <longitude>75</longitude>
+    <timezone>Asia/Bishkek</timezone>
   </country>
   <country>
     <id>122</id>
-    <name>Kyrgyzstan</name>
-    <code>KG</code>
+    <name>Laos</name>
+    <code>LA</code>
+    <code4>es_LM</code4>
+    <latitude>18</latitude>
+    <longitude>105</longitude>
+    <timezone>Asia/Vientiane</timezone>
   </country>
   <country>
     <id>123</id>
-    <name>Laos</name>
-    <code>LA</code>
+    <name>Latvia</name>
+    <code>LV</code>
+    <code4>lv_LV</code4>
+    <latitude>57</latitude>
+    <longitude>25</longitude>
+    <timezone>Europe/Riga</timezone>
   </country>
   <country>
     <id>124</id>
-    <name>Latvia</name>
-    <code>LV</code>
+    <name>Lebanon</name>
+    <code>LB</code>
+    <code4></code4>
+    <latitude>33.8333</latitude>
+    <longitude>35.8333</longitude>
+    <timezone>Asia/Beirut</timezone>
   </country>
   <country>
     <id>125</id>
-    <name>Lebanon</name>
-    <code>LB</code>
+    <name>Lesotho</name>
+    <code>LS</code>
+    <code4></code4>
+    <latitude>-29.5</latitude>
+    <longitude>28.5</longitude>
+    <timezone>Africa/Maseru</timezone>
   </country>
   <country>
     <id>126</id>
-    <name>Lesotho</name>
-    <code>LS</code>
+    <name>Liberia</name>
+    <code>LR</code>
+    <code4></code4>
+    <latitude>6.5</latitude>
+    <longitude>-9.5</longitude>
+    <timezone>Africa/Monrovia</timezone>
   </country>
   <country>
     <id>127</id>
-    <name>Liberia</name>
-    <code>LR</code>
+    <name>Libya</name>
+    <code>LY</code>
+    <code4></code4>
+    <latitude>25</latitude>
+    <longitude>17</longitude>
+    <timezone>Africa/Tripoli</timezone>
   </country>
   <country>
     <id>128</id>
-    <name>Libya</name>
-    <code>LY</code>
+    <name>Liechtenstein</name>
+    <code>LI</code>
+    <code4></code4>
+    <latitude>47.1667</latitude>
+    <longitude>9.5333</longitude>
+    <timezone>Europe/Vaduz</timezone>
   </country>
   <country>
     <id>129</id>
-    <name>Liechtenstein</name>
-    <code>LI</code>
+    <name>Lithuania</name>
+    <code>LT</code>
+    <code4>lt_LT</code4>
+    <latitude>56</latitude>
+    <longitude>24</longitude>
+    <timezone>Europe/Vilnius</timezone>
   </country>
   <country>
     <id>130</id>
-    <name>Lithuania</name>
-    <code>LT</code>
+    <name>Luxembourg</name>
+    <code>LU</code>
+    <code4></code4>
+    <latitude>49.75</latitude>
+    <longitude>6.1667</longitude>
+    <timezone>Europe/Luxembourg</timezone>
   </country>
   <country>
     <id>131</id>
-    <name>Luxembourg</name>
-    <code>LU</code>
+    <name>Macau SAR China</name>
+    <code>MO</code>
+    <code4></code4>
+    <latitude>22.1667</latitude>
+    <longitude>113.55</longitude>
+    <timezone>Asia/Macau</timezone>
   </country>
   <country>
     <id>132</id>
-    <name>Macau SAR China</name>
-    <code>MO</code>
+    <name>Macedonia</name>
+    <code>MK</code>
+    <code4>mk_MK</code4>
+    <latitude>41.8333</latitude>
+    <longitude>22</longitude>
+    <timezone>Europe/Skopje</timezone>
   </country>
   <country>
     <id>133</id>
-    <name>Macedonia</name>
-    <code>MK</code>
+    <name>Madagascar</name>
+    <code>MG</code>
+    <code4></code4>
+    <latitude>-20</latitude>
+    <longitude>47</longitude>
+    <timezone>Indian/Antananarivo</timezone>
   </country>
   <country>
     <id>134</id>
-    <name>Madagascar</name>
-    <code>MG</code>
+    <name>Malawi</name>
+    <code>MW</code>
+    <code4></code4>
+    <latitude>-13.5</latitude>
+    <longitude>34</longitude>
+    <timezone>Africa/Blantyre</timezone>
   </country>
   <country>
     <id>135</id>
-    <name>Malawi</name>
-    <code>MW</code>
+    <name>Malaysia</name>
+    <code>MY</code>
+    <code4></code4>
+    <latitude>2.5</latitude>
+    <longitude>112.5</longitude>
+    <timezone>Asia/Kuala_Lumpur</timezone>
   </country>
   <country>
     <id>136</id>
-    <name>Malaysia</name>
-    <code>MY</code>
+    <name>Maldives</name>
+    <code>MV</code>
+    <code4></code4>
+    <latitude>3.25</latitude>
+    <longitude>73</longitude>
+    <timezone>Indian/Maldives</timezone>
   </country>
   <country>
     <id>137</id>
-    <name>Maldives</name>
-    <code>MV</code>
+    <name>Mali</name>
+    <code>ML</code>
+    <code4>ml_IN</code4>
+    <latitude>17</latitude>
+    <longitude>-4</longitude>
+    <timezone>Africa/Bamako</timezone>
   </country>
   <country>
     <id>138</id>
-    <name>Mali</name>
-    <code>ML</code>
+    <name>Malta</name>
+    <code>MT</code>
+    <code4>mt_MT</code4>
+    <latitude>35.8333</latitude>
+    <longitude>14.5833</longitude>
+    <timezone>Europe/Malta</timezone>
   </country>
   <country>
     <id>139</id>
-    <name>Malta</name>
-    <code>MT</code>
+    <name>Marshall Islands</name>
+    <code>MH</code>
+    <code4></code4>
+    <latitude>9</latitude>
+    <longitude>168</longitude>
+    <timezone>Pacific/Kwajalein</timezone>
   </country>
   <country>
     <id>140</id>
-    <name>Marshall Islands</name>
-    <code>MH</code>
+    <name>Martinique</name>
+    <code>MQ</code>
+    <code4></code4>
+    <latitude>14.6667</latitude>
+    <longitude>-61</longitude>
+    <timezone>America/Martinique</timezone>
   </country>
   <country>
     <id>141</id>
-    <name>Martinique</name>
-    <code>MQ</code>
+    <name>Mauritania</name>
+    <code>MR</code>
+    <code4>mr_IN</code4>
+    <latitude>20</latitude>
+    <longitude>-12</longitude>
+    <timezone>Africa/Nouakchott</timezone>
   </country>
   <country>
     <id>142</id>
-    <name>Mauritania</name>
-    <code>MR</code>
+    <name>Mauritius</name>
+    <code>MU</code>
+    <code4></code4>
+    <latitude>-20.2833</latitude>
+    <longitude>57.55</longitude>
+    <timezone>Indian/Mauritius</timezone>
   </country>
   <country>
     <id>143</id>
-    <name>Mauritius</name>
-    <code>MU</code>
+    <name>Mayotte</name>
+    <code>YT</code>
+    <code4></code4>
+    <latitude>-12.8333</latitude>
+    <longitude>45.1667</longitude>
+    <timezone>Indian/Mayotte</timezone>
   </country>
   <country>
     <id>144</id>
-    <name>Mayotte</name>
-    <code>YT</code>
+    <name>Metropolitan France</name>
+    <code>FX</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>145</id>
-    <name>Metropolitan France</name>
-    <code>FX</code>
+    <name>Mexico</name>
+    <code>MX</code>
+    <code4></code4>
+    <latitude>23</latitude>
+    <longitude>-102</longitude>
+    <timezone>America/Mexico_City</timezone>
   </country>
   <country>
     <id>146</id>
-    <name>Mexico</name>
-    <code>MX</code>
+    <name>Micronesia</name>
+    <code>FM</code>
+    <code4></code4>
+    <latitude>6.9167</latitude>
+    <longitude>158.25</longitude>
+    <timezone>Pacific/Pohnpei</timezone>
   </country>
   <country>
     <id>147</id>
-    <name>Micronesia</name>
-    <code>FM</code>
+    <name>Midway Islands</name>
+    <code>MI</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>148</id>
-    <name>Midway Islands</name>
-    <code>MI</code>
+    <name>Moldova</name>
+    <code>MD</code>
+    <code4></code4>
+    <latitude>47</latitude>
+    <longitude>29</longitude>
+    <timezone>Europe/Chisinau</timezone>
   </country>
   <country>
     <id>149</id>
-    <name>Moldova</name>
-    <code>MD</code>
+    <name>Monaco</name>
+    <code>MC</code>
+    <code4></code4>
+    <latitude>43.7333</latitude>
+    <longitude>7.4</longitude>
+    <timezone>Europe/Monaco</timezone>
   </country>
   <country>
     <id>150</id>
-    <name>Monaco</name>
-    <code>MC</code>
+    <name>Mongolia</name>
+    <code>MN</code>
+    <code4>ru_MO</code4>
+    <latitude>46</latitude>
+    <longitude>105</longitude>
+    <timezone>Asia/Ulaanbaatar</timezone>
   </country>
   <country>
     <id>151</id>
-    <name>Mongolia</name>
-    <code>MN</code>
+    <name>Montenegro</name>
+    <code>ME</code>
+    <code4></code4>
+    <latitude>42</latitude>
+    <longitude>19</longitude>
+    <timezone>Europe/Podgorica</timezone>
   </country>
   <country>
     <id>152</id>
-    <name>Montenegro</name>
-    <code>ME</code>
+    <name>Montserrat</name>
+    <code>MS</code>
+    <code4>ms_MY</code4>
+    <latitude>16.75</latitude>
+    <longitude>-62.2</longitude>
+    <timezone>America/Montserrat</timezone>
   </country>
   <country>
     <id>153</id>
-    <name>Montserrat</name>
-    <code>MS</code>
+    <name>Morocco</name>
+    <code>MA</code>
+    <code4></code4>
+    <latitude>32</latitude>
+    <longitude>-5</longitude>
+    <timezone>Africa/Casablanca</timezone>
   </country>
   <country>
     <id>154</id>
-    <name>Morocco</name>
-    <code>MA</code>
+    <name>Mozambique</name>
+    <code>MZ</code>
+    <code4></code4>
+    <latitude>-18.25</latitude>
+    <longitude>35</longitude>
+    <timezone>Africa/Maputo</timezone>
   </country>
   <country>
     <id>155</id>
-    <name>Mozambique</name>
-    <code>MZ</code>
+    <name>Myanmar [Burma]</name>
+    <code>MM</code>
+    <code4></code4>
+    <latitude>22</latitude>
+    <longitude>98</longitude>
+    <timezone>Asia/Rangoon</timezone>
   </country>
   <country>
     <id>156</id>
-    <name>Myanmar [Burma]</name>
-    <code>MM</code>
+    <name>Namibia</name>
+    <code>NA</code>
+    <code4></code4>
+    <latitude>-22</latitude>
+    <longitude>17</longitude>
+    <timezone>Africa/Windhoek</timezone>
   </country>
   <country>
     <id>157</id>
-    <name>Namibia</name>
-    <code>NA</code>
+    <name>Nauru</name>
+    <code>NR</code>
+    <code4></code4>
+    <latitude>-0.5333</latitude>
+    <longitude>166.917</longitude>
+    <timezone>Pacific/Nauru</timezone>
   </country>
   <country>
     <id>158</id>
-    <name>Nauru</name>
-    <code>NR</code>
+    <name>Nepal</name>
+    <code>NP</code>
+    <code4></code4>
+    <latitude>28</latitude>
+    <longitude>84</longitude>
+    <timezone>Asia/Kathmandu</timezone>
   </country>
   <country>
     <id>159</id>
-    <name>Nepal</name>
-    <code>NP</code>
+    <name>Netherlands</name>
+    <code>NL</code>
+    <code4>nl_NL</code4>
+    <latitude>52.5</latitude>
+    <longitude>5.75</longitude>
+    <timezone>Europe/Amsterdam</timezone>
   </country>
   <country>
     <id>160</id>
-    <name>Netherlands</name>
-    <code>NL</code>
+    <name>Netherlands Antilles</name>
+    <code>AN</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>161</id>
-    <name>Netherlands Antilles</name>
-    <code>AN</code>
+    <name>Neutral Zone</name>
+    <code>NT</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>162</id>
-    <name>Neutral Zone</name>
-    <code>NT</code>
+    <name>New Caledonia</name>
+    <code>NC</code>
+    <code4></code4>
+    <latitude>-21.5</latitude>
+    <longitude>165.5</longitude>
+    <timezone>Pacific/Noumea</timezone>
   </country>
   <country>
     <id>163</id>
-    <name>New Caledonia</name>
-    <code>NC</code>
+    <name>New Zealand</name>
+    <code>NZ</code>
+    <code4></code4>
+    <latitude>-41</latitude>
+    <longitude>174</longitude>
+    <timezone>Pacific/Auckland</timezone>
   </country>
   <country>
     <id>164</id>
-    <name>New Zealand</name>
-    <code>NZ</code>
+    <name>Nicaragua</name>
+    <code>NI</code>
+    <code4></code4>
+    <latitude>13</latitude>
+    <longitude>-85</longitude>
+    <timezone>America/Managua</timezone>
   </country>
   <country>
     <id>165</id>
-    <name>Nicaragua</name>
-    <code>NI</code>
+    <name>Niger</name>
+    <code>NE</code>
+    <code4></code4>
+    <latitude>16</latitude>
+    <longitude>8</longitude>
+    <timezone>Africa/Niamey</timezone>
   </country>
   <country>
     <id>166</id>
-    <name>Niger</name>
-    <code>NE</code>
+    <name>Nigeria</name>
+    <code>NG</code>
+    <code4></code4>
+    <latitude>10</latitude>
+    <longitude>8</longitude>
+    <timezone>Africa/Lagos</timezone>
   </country>
   <country>
     <id>167</id>
-    <name>Nigeria</name>
-    <code>NG</code>
+    <name>Niue</name>
+    <code>NU</code>
+    <code4></code4>
+    <latitude>-19.0333</latitude>
+    <longitude>-169.867</longitude>
+    <timezone>Pacific/Niue</timezone>
   </country>
   <country>
     <id>168</id>
-    <name>Niue</name>
-    <code>NU</code>
+    <name>Norfolk Island</name>
+    <code>NF</code>
+    <code4></code4>
+    <latitude>-29.0333</latitude>
+    <longitude>167.95</longitude>
+    <timezone>Pacific/Norfolk</timezone>
   </country>
   <country>
     <id>169</id>
-    <name>Norfolk Island</name>
-    <code>NF</code>
+    <name>North Korea</name>
+    <code>KP</code>
+    <code4></code4>
+    <latitude>40</latitude>
+    <longitude>127</longitude>
+    <timezone>Asia/Pyongyang</timezone>
   </country>
   <country>
     <id>170</id>
-    <name>North Korea</name>
-    <code>KP</code>
+    <name>North Vietnam</name>
+    <code>VD</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>171</id>
-    <name>North Vietnam</name>
-    <code>VD</code>
+    <name>Northern Mariana Islands</name>
+    <code>MP</code>
+    <code4></code4>
+    <latitude>15.2</latitude>
+    <longitude>145.75</longitude>
+    <timezone>Pacific/Saipan</timezone>
   </country>
   <country>
     <id>172</id>
-    <name>Northern Mariana Islands</name>
-    <code>MP</code>
+    <name>Norway</name>
+    <code>NO</code>
+    <code4>no_NO</code4>
+    <latitude>62</latitude>
+    <longitude>10</longitude>
+    <timezone>Europe/Oslo</timezone>
   </country>
   <country>
     <id>173</id>
-    <name>Norway</name>
-    <code>NO</code>
+    <name>Oman</name>
+    <code>OM</code>
+    <code4></code4>
+    <latitude>21</latitude>
+    <longitude>57</longitude>
+    <timezone>Asia/Muscat</timezone>
   </country>
   <country>
     <id>174</id>
-    <name>Oman</name>
-    <code>OM</code>
+    <name>Pacific Islands Trust Territory</name>
+    <code>PC</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>175</id>
-    <name>Pacific Islands Trust Territory</name>
-    <code>PC</code>
+    <name>Pakistan</name>
+    <code>PK</code>
+    <code4></code4>
+    <latitude>30</latitude>
+    <longitude>70</longitude>
+    <timezone>Asia/Karachi</timezone>
   </country>
   <country>
     <id>176</id>
-    <name>Pakistan</name>
-    <code>PK</code>
+    <name>Palau</name>
+    <code>PW</code>
+    <code4></code4>
+    <latitude>7.5</latitude>
+    <longitude>134.5</longitude>
+    <timezone>Pacific/Palau</timezone>
   </country>
   <country>
     <id>177</id>
-    <name>Palau</name>
-    <code>PW</code>
+    <name>Palestinian Territories</name>
+    <code>PS</code>
+    <code4></code4>
+    <latitude>32</latitude>
+    <longitude>35.25</longitude>
+    <timezone>Asia/Gaza</timezone>
   </country>
   <country>
     <id>178</id>
-    <name>Palestinian Territories</name>
-    <code>PS</code>
+    <name>Panama</name>
+    <code>PA</code>
+    <code4></code4>
+    <latitude>9</latitude>
+    <longitude>-80</longitude>
+    <timezone>America/Panama</timezone>
   </country>
   <country>
     <id>179</id>
-    <name>Panama</name>
-    <code>PA</code>
+    <name>Panama Canal Zone</name>
+    <code>PZ</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>180</id>
-    <name>Panama Canal Zone</name>
-    <code>PZ</code>
+    <name>Papua New Guinea</name>
+    <code>PG</code>
+    <code4></code4>
+    <latitude>-6</latitude>
+    <longitude>147</longitude>
+    <timezone>Pacific/Port_Moresby</timezone>
   </country>
   <country>
     <id>181</id>
-    <name>Papua New Guinea</name>
-    <code>PG</code>
+    <name>Paraguay</name>
+    <code>PY</code>
+    <code4></code4>
+    <latitude>-23</latitude>
+    <longitude>-58</longitude>
+    <timezone>America/Asuncion</timezone>
   </country>
   <country>
     <id>182</id>
-    <name>Paraguay</name>
-    <code>PY</code>
+    <name>People's Democratic Republic of Yemen</name>
+    <code>YD</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>183</id>
-    <name>People's Democratic Republic of Yemen</name>
-    <code>YD</code>
+    <name>Peru</name>
+    <code>PE</code>
+    <code4></code4>
+    <latitude>-10</latitude>
+    <longitude>-76</longitude>
+    <timezone>America/Lima</timezone>
   </country>
   <country>
     <id>184</id>
-    <name>Peru</name>
-    <code>PE</code>
+    <name>Philippines</name>
+    <code>PH</code>
+    <code4></code4>
+    <latitude>13</latitude>
+    <longitude>122</longitude>
+    <timezone>Asia/Manila</timezone>
   </country>
   <country>
     <id>185</id>
-    <name>Philippines</name>
-    <code>PH</code>
+    <name>Pitcairn Islands</name>
+    <code>PN</code>
+    <code4></code4>
+    <latitude>-24.7036</latitude>
+    <longitude>-127.439</longitude>
+    <timezone>Pacific/Pitcairn</timezone>
   </country>
   <country>
     <id>186</id>
-    <name>Pitcairn Islands</name>
-    <code>PN</code>
+    <name>Poland</name>
+    <code>PL</code>
+    <code4>pl_PL</code4>
+    <latitude>52</latitude>
+    <longitude>20</longitude>
+    <timezone>Europe/Warsaw</timezone>
   </country>
   <country>
     <id>187</id>
-    <name>Poland</name>
-    <code>PL</code>
+    <name>Portugal</name>
+    <code>PT</code>
+    <code4>pt_PT</code4>
+    <latitude>39.5</latitude>
+    <longitude>-8</longitude>
+    <timezone>Europe/Lisbon</timezone>
   </country>
   <country>
     <id>188</id>
-    <name>Portugal</name>
-    <code>PT</code>
+    <name>Puerto Rico</name>
+    <code>PR</code>
+    <code4></code4>
+    <latitude>18.25</latitude>
+    <longitude>-66.5</longitude>
+    <timezone>America/Puerto_Rico</timezone>
   </country>
   <country>
     <id>189</id>
-    <name>Puerto Rico</name>
-    <code>PR</code>
+    <name>Qatar</name>
+    <code>QA</code>
+    <code4></code4>
+    <latitude>25.5</latitude>
+    <longitude>51.25</longitude>
+    <timezone>Asia/Qatar</timezone>
   </country>
   <country>
     <id>190</id>
-    <name>Qatar</name>
-    <code>QA</code>
+    <name>Romania</name>
+    <code>RO</code>
+    <code4>ro_RO</code4>
+    <latitude>46</latitude>
+    <longitude>25</longitude>
+    <timezone>Europe/Bucharest</timezone>
   </country>
   <country>
     <id>191</id>
-    <name>Romania</name>
-    <code>RO</code>
+    <name>Russia</name>
+    <code>RU</code>
+    <code4>ru_RU</code4>
+    <latitude>60</latitude>
+    <longitude>100</longitude>
+    <timezone>Europe/Moscow</timezone>
   </country>
   <country>
     <id>192</id>
-    <name>Russia</name>
-    <code>RU</code>
+    <name>Rwanda</name>
+    <code>RW</code>
+    <code4></code4>
+    <latitude>-2</latitude>
+    <longitude>30</longitude>
+    <timezone>Africa/Kigali</timezone>
   </country>
   <country>
     <id>193</id>
-    <name>Rwanda</name>
-    <code>RW</code>
+    <name>Réunion</name>
+    <code>RE</code>
+    <code4></code4>
+    <latitude>-21.1</latitude>
+    <longitude>55.6</longitude>
+    <timezone>Indian/Reunion</timezone>
   </country>
   <country>
     <id>194</id>
-    <name>Réunion</name>
-    <code>RE</code>
+    <name>Saint Barthélemy</name>
+    <code>BL</code>
+    <code4></code4>
+    <latitude>17.9</latitude>
+    <longitude>-62.8333</longitude>
+    <timezone>America/St_Barthelemy</timezone>
   </country>
   <country>
     <id>195</id>
-    <name>Saint Barthélemy</name>
-    <code>BL</code>
+    <name>Saint Helena</name>
+    <code>SH</code>
+    <code4></code4>
+    <latitude>-15.9333</latitude>
+    <longitude>-5.7</longitude>
+    <timezone>Atlantic/St_Helena</timezone>
   </country>
   <country>
     <id>196</id>
-    <name>Saint Helena</name>
-    <code>SH</code>
+    <name>Saint Kitts and Nevis</name>
+    <code>KN</code>
+    <code4>kn_IN</code4>
+    <latitude>17.3333</latitude>
+    <longitude>-62.75</longitude>
+    <timezone>America/St_Kitts</timezone>
   </country>
   <country>
     <id>197</id>
-    <name>Saint Kitts and Nevis</name>
-    <code>KN</code>
+    <name>Saint Lucia</name>
+    <code>LC</code>
+    <code4></code4>
+    <latitude>13.8833</latitude>
+    <longitude>-61.1333</longitude>
+    <timezone>America/St_Lucia</timezone>
   </country>
   <country>
     <id>198</id>
-    <name>Saint Lucia</name>
-    <code>LC</code>
+    <name>Saint Martin</name>
+    <code>MF</code>
+    <code4></code4>
+    <latitude>18.0525</latitude>
+    <longitude>-63.0737</longitude>
+    <timezone>America/Marigot</timezone>
   </country>
   <country>
     <id>199</id>
-    <name>Saint Martin</name>
-    <code>MF</code>
+    <name>Saint Pierre and Miquelon</name>
+    <code>PM</code>
+    <code4></code4>
+    <latitude>46.8333</latitude>
+    <longitude>-56.3333</longitude>
+    <timezone>America/Miquelon</timezone>
   </country>
   <country>
     <id>200</id>
-    <name>Saint Pierre and Miquelon</name>
-    <code>PM</code>
+    <name>Saint Vincent and the Grenadines</name>
+    <code>VC</code>
+    <code4></code4>
+    <latitude>13.25</latitude>
+    <longitude>-61.2</longitude>
+    <timezone>America/St_Vincent</timezone>
   </country>
   <country>
     <id>201</id>
-    <name>Saint Vincent and the Grenadines</name>
-    <code>VC</code>
+    <name>Samoa</name>
+    <code>WS</code>
+    <code4></code4>
+    <latitude>-13.5833</latitude>
+    <longitude>-172.333</longitude>
+    <timezone>Pacific/Apia</timezone>
   </country>
   <country>
     <id>202</id>
-    <name>Samoa</name>
-    <code>WS</code>
+    <name>San Marino</name>
+    <code>SM</code>
+    <code4></code4>
+    <latitude>43.9333</latitude>
+    <longitude>12.4667</longitude>
+    <timezone>Europe/San_Marino</timezone>
   </country>
   <country>
     <id>203</id>
-    <name>San Marino</name>
-    <code>SM</code>
+    <name>Saudi Arabia</name>
+    <code>SA</code>
+    <code4></code4>
+    <latitude>25</latitude>
+    <longitude>45</longitude>
+    <timezone>Asia/Riyadh</timezone>
   </country>
   <country>
     <id>204</id>
-    <name>Saudi Arabia</name>
-    <code>SA</code>
+    <name>Senegal</name>
+    <code>SN</code>
+    <code4></code4>
+    <latitude>14</latitude>
+    <longitude>-14</longitude>
+    <timezone>Africa/Dakar</timezone>
   </country>
   <country>
     <id>205</id>
-    <name>Senegal</name>
-    <code>SN</code>
+    <name>Serbia</name>
+    <code>RS</code>
+    <code4></code4>
+    <latitude>44</latitude>
+    <longitude>21</longitude>
+    <timezone>Europe/Belgrade</timezone>
   </country>
   <country>
     <id>206</id>
-    <name>Serbia</name>
-    <code>RS</code>
+    <name>Serbia and Montenegro</name>
+    <code>CS</code>
+    <code4>cs_CZ</code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>207</id>
-    <name>Serbia and Montenegro</name>
-    <code>CS</code>
+    <name>Seychelles</name>
+    <code>SC</code>
+    <code4></code4>
+    <latitude>-4.5833</latitude>
+    <longitude>55.6667</longitude>
+    <timezone>Indian/Mahe</timezone>
   </country>
   <country>
     <id>208</id>
-    <name>Seychelles</name>
-    <code>SC</code>
+    <name>Sierra Leone</name>
+    <code>SL</code>
+    <code4>sl_SI</code4>
+    <latitude>8.5</latitude>
+    <longitude>-11.5</longitude>
+    <timezone>Africa/Freetown</timezone>
   </country>
   <country>
     <id>209</id>
-    <name>Sierra Leone</name>
-    <code>SL</code>
+    <name>Singapore</name>
+    <code>SG</code>
+    <code4></code4>
+    <latitude>1.3667</latitude>
+    <longitude>103.8</longitude>
+    <timezone>Asia/Singapore</timezone>
   </country>
   <country>
     <id>210</id>
-    <name>Singapore</name>
-    <code>SG</code>
+    <name>Slovakia</name>
+    <code>SK</code>
+    <code4>sk_SK</code4>
+    <latitude>48.6667</latitude>
+    <longitude>19.5</longitude>
+    <timezone>Europe/Bratislava</timezone>
   </country>
   <country>
     <id>211</id>
-    <name>Slovakia</name>
-    <code>SK</code>
+    <name>Slovenia</name>
+    <code>SI</code>
+    <code4>si_LK</code4>
+    <latitude>46</latitude>
+    <longitude>15</longitude>
+    <timezone>Europe/Ljubljana</timezone>
   </country>
   <country>
     <id>212</id>
-    <name>Slovenia</name>
-    <code>SI</code>
+    <name>Solomon Islands</name>
+    <code>SB</code>
+    <code4></code4>
+    <latitude>-8</latitude>
+    <longitude>159</longitude>
+    <timezone>Pacific/Guadalcanal</timezone>
   </country>
   <country>
     <id>213</id>
-    <name>Solomon Islands</name>
-    <code>SB</code>
+    <name>Somalia</name>
+    <code>SO</code>
+    <code4>so_SO</code4>
+    <latitude>10</latitude>
+    <longitude>49</longitude>
+    <timezone>Africa/Mogadishu</timezone>
   </country>
   <country>
     <id>214</id>
-    <name>Somalia</name>
-    <code>SO</code>
+    <name>South Africa</name>
+    <code>ZA</code>
+    <code4></code4>
+    <latitude>-29</latitude>
+    <longitude>24</longitude>
+    <timezone>Africa/Johannesburg</timezone>
   </country>
   <country>
     <id>215</id>
-    <name>South Africa</name>
-    <code>ZA</code>
+    <name>South Georgia and the South Sandwich Islands</name>
+    <code>GS</code>
+    <code4></code4>
+    <latitude>-54.5</latitude>
+    <longitude>-37</longitude>
+    <timezone>Atlantic/South_Georgia</timezone>
   </country>
   <country>
     <id>216</id>
-    <name>South Georgia and the South Sandwich Islands</name>
-    <code>GS</code>
+    <name>South Korea</name>
+    <code>KR</code>
+    <code4></code4>
+    <latitude>37</latitude>
+    <longitude>127.5</longitude>
+    <timezone>Asia/Seoul</timezone>
   </country>
   <country>
     <id>217</id>
-    <name>South Korea</name>
-    <code>KR</code>
+    <name>Spain</name>
+    <code>ES</code>
+    <code4>es_ES</code4>
+    <latitude>40</latitude>
+    <longitude>-4</longitude>
+    <timezone>Europe/Madrid</timezone>
   </country>
   <country>
     <id>218</id>
-    <name>Spain</name>
-    <code>ES</code>
+    <name>Sri Lanka</name>
+    <code>LK</code>
+    <code4></code4>
+    <latitude>7</latitude>
+    <longitude>81</longitude>
+    <timezone>Asia/Colombo</timezone>
   </country>
   <country>
     <id>219</id>
-    <name>Sri Lanka</name>
-    <code>LK</code>
+    <name>Sudan</name>
+    <code>SD</code>
+    <code4></code4>
+    <latitude>15</latitude>
+    <longitude>30</longitude>
+    <timezone>Africa/Khartoum</timezone>
   </country>
   <country>
     <id>220</id>
-    <name>Sudan</name>
-    <code>SD</code>
+    <name>Suriname</name>
+    <code>SR</code>
+    <code4>sr_RS</code4>
+    <latitude>4</latitude>
+    <longitude>-56</longitude>
+    <timezone>America/Paramaribo</timezone>
   </country>
   <country>
     <id>221</id>
-    <name>Suriname</name>
-    <code>SR</code>
+    <name>Svalbard and Jan Mayen</name>
+    <code>SJ</code>
+    <code4></code4>
+    <latitude>78</latitude>
+    <longitude>20</longitude>
+    <timezone>Arctic/Longyearbyen</timezone>
   </country>
   <country>
     <id>222</id>
-    <name>Svalbard and Jan Mayen</name>
-    <code>SJ</code>
+    <name>Swaziland</name>
+    <code>SZ</code>
+    <code4></code4>
+    <latitude>-26.5</latitude>
+    <longitude>31.5</longitude>
+    <timezone>Africa/Mbabane</timezone>
   </country>
   <country>
     <id>223</id>
-    <name>Swaziland</name>
-    <code>SZ</code>
+    <name>Sweden</name>
+    <code>SE</code>
+    <code4></code4>
+    <latitude>62</latitude>
+    <longitude>15</longitude>
+    <timezone>Europe/Stockholm</timezone>
   </country>
   <country>
     <id>224</id>
-    <name>Sweden</name>
-    <code>SE</code>
+    <name>Switzerland</name>
+    <code>CH</code>
+    <code4></code4>
+    <latitude>47</latitude>
+    <longitude>8</longitude>
+    <timezone>Europe/Zurich</timezone>
   </country>
   <country>
     <id>225</id>
-    <name>Switzerland</name>
-    <code>CH</code>
+    <name>Syria</name>
+    <code>SY</code>
+    <code4></code4>
+    <latitude>35</latitude>
+    <longitude>38</longitude>
+    <timezone>Asia/Damascus</timezone>
   </country>
   <country>
     <id>226</id>
-    <name>Syria</name>
-    <code>SY</code>
+    <name>São Tomé and Príncipe</name>
+    <code>ST</code>
+    <code4>st_ZA</code4>
+    <latitude>1</latitude>
+    <longitude>7</longitude>
+    <timezone>Africa/Sao_Tome</timezone>
   </country>
   <country>
     <id>227</id>
-    <name>São Tomé and Príncipe</name>
-    <code>ST</code>
+    <name>Taiwan</name>
+    <code>TW</code>
+    <code4>n/a</code4>
+    <latitude>23.5</latitude>
+    <longitude>121</longitude>
+    <timezone>Asia/Taipei</timezone>
   </country>
   <country>
     <id>228</id>
-    <name>Taiwan</name>
-    <code>TW</code>
+    <name>Tajikistan</name>
+    <code>TJ</code>
+    <code4></code4>
+    <latitude>39</latitude>
+    <longitude>71</longitude>
+    <timezone>Asia/Dushanbe</timezone>
   </country>
   <country>
     <id>229</id>
-    <name>Tajikistan</name>
-    <code>TJ</code>
+    <name>Tanzania</name>
+    <code>TZ</code>
+    <code4></code4>
+    <latitude>-6</latitude>
+    <longitude>35</longitude>
+    <timezone>Africa/Dar_es_Salaam</timezone>
   </country>
   <country>
     <id>230</id>
-    <name>Tanzania</name>
-    <code>TZ</code>
+    <name>Thailand</name>
+    <code>TH</code>
+    <code4>th_TH</code4>
+    <latitude>15</latitude>
+    <longitude>100</longitude>
+    <timezone>Asia/Bangkok</timezone>
   </country>
   <country>
     <id>231</id>
-    <name>Thailand</name>
-    <code>TH</code>
+    <name>Timor-Leste</name>
+    <code>TL</code>
+    <code4></code4>
+    <latitude>-8.87422</latitude>
+    <longitude>125.728</longitude>
+    <timezone>Asia/Dili</timezone>
   </country>
   <country>
     <id>232</id>
-    <name>Timor-Leste</name>
-    <code>TL</code>
+    <name>Togo</name>
+    <code>TG</code>
+    <code4>tg_TJ</code4>
+    <latitude>8</latitude>
+    <longitude>1.1667</longitude>
+    <timezone>Africa/Lome</timezone>
   </country>
   <country>
     <id>233</id>
-    <name>Togo</name>
-    <code>TG</code>
+    <name>Tokelau</name>
+    <code>TK</code>
+    <code4>tk_TM</code4>
+    <latitude>-9</latitude>
+    <longitude>-172</longitude>
+    <timezone>Pacific/Fakaofo</timezone>
   </country>
   <country>
     <id>234</id>
-    <name>Tokelau</name>
-    <code>TK</code>
+    <name>Tonga</name>
+    <code>TO</code>
+    <code4></code4>
+    <latitude>-20</latitude>
+    <longitude>-175</longitude>
+    <timezone>Pacific/Tongatapu</timezone>
   </country>
   <country>
     <id>235</id>
-    <name>Tonga</name>
-    <code>TO</code>
+    <name>Trinidad and Tobago</name>
+    <code>TT</code>
+    <code4>tt_RU</code4>
+    <latitude>11</latitude>
+    <longitude>-61</longitude>
+    <timezone>America/Port_of_Spain</timezone>
   </country>
   <country>
     <id>236</id>
-    <name>Trinidad and Tobago</name>
-    <code>TT</code>
+    <name>Tunisia</name>
+    <code>TN</code>
+    <code4></code4>
+    <latitude>34</latitude>
+    <longitude>9</longitude>
+    <timezone>Africa/Tunis</timezone>
   </country>
   <country>
     <id>237</id>
-    <name>Tunisia</name>
-    <code>TN</code>
+    <name>Turkey</name>
+    <code>TR</code>
+    <code4>tr_TR</code4>
+    <latitude>39</latitude>
+    <longitude>35</longitude>
+    <timezone>Europe/Istanbul</timezone>
   </country>
   <country>
     <id>238</id>
-    <name>Turkey</name>
-    <code>TR</code>
+    <name>Turkmenistan</name>
+    <code>TM</code>
+    <code4></code4>
+    <latitude>40</latitude>
+    <longitude>60</longitude>
+    <timezone>Asia/Ashgabat</timezone>
   </country>
   <country>
     <id>239</id>
-    <name>Turkmenistan</name>
-    <code>TM</code>
+    <name>Turks and Caicos Islands</name>
+    <code>TC</code>
+    <code4></code4>
+    <latitude>21.75</latitude>
+    <longitude>-71.5833</longitude>
+    <timezone>America/Grand_Turk</timezone>
   </country>
   <country>
     <id>240</id>
-    <name>Turks and Caicos Islands</name>
-    <code>TC</code>
+    <name>Tuvalu</name>
+    <code>TV</code>
+    <code4></code4>
+    <latitude>-8</latitude>
+    <longitude>178</longitude>
+    <timezone>Pacific/Funafuti</timezone>
   </country>
   <country>
     <id>241</id>
-    <name>Tuvalu</name>
-    <code>TV</code>
+    <name>U.S. Minor Outlying Islands</name>
+    <code>UM</code>
+    <code4></code4>
+    <latitude>19.2833</latitude>
+    <longitude>166.6</longitude>
+    <timezone>Pacific/Wake</timezone>
   </country>
   <country>
     <id>242</id>
-    <name>U.S. Minor Outlying Islands</name>
-    <code>UM</code>
+    <name>U.S. Miscellaneous Pacific Islands</name>
+    <code>PU</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>243</id>
-    <name>U.S. Miscellaneous Pacific Islands</name>
-    <code>PU</code>
+    <name>U.S. Virgin Islands</name>
+    <code>VI</code>
+    <code4>vi_VN</code4>
+    <latitude>18.3333</latitude>
+    <longitude>-64.8333</longitude>
+    <timezone>America/St_Thomas</timezone>
   </country>
   <country>
     <id>244</id>
-    <name>U.S. Virgin Islands</name>
-    <code>VI</code>
+    <name>Uganda</name>
+    <code>UG</code>
+    <code4></code4>
+    <latitude>1</latitude>
+    <longitude>32</longitude>
+    <timezone>Africa/Kampala</timezone>
   </country>
   <country>
     <id>245</id>
-    <name>Uganda</name>
-    <code>UG</code>
+    <name>Ukraine</name>
+    <code>UA</code>
+    <code4></code4>
+    <latitude>49</latitude>
+    <longitude>32</longitude>
+    <timezone>Europe/Kiev</timezone>
   </country>
   <country>
     <id>246</id>
-    <name>Ukraine</name>
-    <code>UA</code>
+    <name>Union of Soviet Socialist Republics</name>
+    <code>SU</code>
+    <code4>su_ID</code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>247</id>
-    <name>Union of Soviet Socialist Republics</name>
-    <code>SU</code>
+    <name>United Arab Emirates</name>
+    <code>AE</code>
+    <code4>en_AU</code4>
+    <latitude>24</latitude>
+    <longitude>54</longitude>
+    <timezone>Asia/Dubai</timezone>
   </country>
   <country>
     <id>248</id>
-    <name>United Arab Emirates</name>
-    <code>AE</code>
+    <name>United Kingdom</name>
+    <code>GB</code>
+    <code4>en_GB</code4>
+    <latitude>54</latitude>
+    <longitude>-2</longitude>
+    <timezone>Europe/London</timezone>
   </country>
   <country>
     <id>249</id>
-    <name>United Kingdom</name>
-    <code>GB</code>
+    <name>United States</name>
+    <code>US</code>
+    <code4>en_US</code4>
+    <latitude>38</latitude>
+    <longitude>-97</longitude>
+    <timezone>America/New_York</timezone>
   </country>
   <country>
     <id>250</id>
-    <name>United States</name>
-    <code>US</code>
+    <name>Unknown or Invalid Region</name>
+    <code>ZZ</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>251</id>
-    <name>Unknown or Invalid Region</name>
-    <code>ZZ</code>
+    <name>Uruguay</name>
+    <code>UY</code>
+    <code4></code4>
+    <latitude>-33</latitude>
+    <longitude>-56</longitude>
+    <timezone>America/Montevideo</timezone>
   </country>
   <country>
     <id>252</id>
-    <name>Uruguay</name>
-    <code>UY</code>
+    <name>Uzbekistan</name>
+    <code>UZ</code>
+    <code4>uz_UZ</code4>
+    <latitude>41</latitude>
+    <longitude>64</longitude>
+    <timezone>Asia/Tashkent</timezone>
   </country>
   <country>
     <id>253</id>
-    <name>Uzbekistan</name>
-    <code>UZ</code>
+    <name>Vanuatu</name>
+    <code>VU</code>
+    <code4></code4>
+    <latitude>-16</latitude>
+    <longitude>167</longitude>
+    <timezone>Pacific/Efate</timezone>
   </country>
   <country>
     <id>254</id>
-    <name>Vanuatu</name>
-    <code>VU</code>
+    <name>Vatican City</name>
+    <code>VA</code>
+    <code4></code4>
+    <latitude>41.9</latitude>
+    <longitude>12.45</longitude>
+    <timezone>Europe/Vatican</timezone>
   </country>
   <country>
     <id>255</id>
-    <name>Vatican City</name>
-    <code>VA</code>
+    <name>Venezuela</name>
+    <code>VE</code>
+    <code4></code4>
+    <latitude>8</latitude>
+    <longitude>-66</longitude>
+    <timezone>America/Caracas</timezone>
   </country>
   <country>
     <id>256</id>
-    <name>Venezuela</name>
-    <code>VE</code>
+    <name>Vietnam</name>
+    <code>VN</code>
+    <code4></code4>
+    <latitude>16</latitude>
+    <longitude>106</longitude>
+    <timezone>Asia/Ho_Chi_Minh</timezone>
   </country>
   <country>
     <id>257</id>
-    <name>Vietnam</name>
-    <code>VN</code>
+    <name>Wake Island</name>
+    <code>WK</code>
+    <code4></code4>
+    <latitude>-90</latitude>
+    <longitude>0</longitude>
+    <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
     <id>258</id>
-    <name>Wake Island</name>
-    <code>WK</code>
+    <name>Wallis and Futuna</name>
+    <code>WF</code>
+    <code4></code4>
+    <latitude>-13.3</latitude>
+    <longitude>-176.2</longitude>
+    <timezone>Pacific/Wallis</timezone>
   </country>
   <country>
     <id>259</id>
-    <name>Wallis and Futuna</name>
-    <code>WF</code>
+    <name>Western Sahara</name>
+    <code>EH</code>
+    <code4></code4>
+    <latitude>24.5</latitude>
+    <longitude>-13</longitude>
+    <timezone>Africa/El_Aaiun</timezone>
   </country>
   <country>
     <id>260</id>
-    <name>Western Sahara</name>
-    <code>EH</code>
+    <name>Yemen</name>
+    <code>YE</code>
+    <code4></code4>
+    <latitude>15</latitude>
+    <longitude>48</longitude>
+    <timezone>Asia/Aden</timezone>
   </country>
   <country>
     <id>261</id>
-    <name>Yemen</name>
-    <code>YE</code>
+    <name>Zambia</name>
+    <code>ZM</code>
+    <code4></code4>
+    <latitude>-15</latitude>
+    <longitude>30</longitude>
+    <timezone>Africa/Lusaka</timezone>
   </country>
   <country>
     <id>262</id>
-    <name>Zambia</name>
-    <code>ZM</code>
+    <name>Zimbabwe</name>
+    <code>ZW</code>
+    <code4></code4>
+    <latitude>-20</latitude>
+    <longitude>30</longitude>
+    <timezone>Africa/Harare</timezone>
   </country>
   <country>
     <id>263</id>
-    <name>Zimbabwe</name>
-    <code>ZW</code>
-  </country>
-  <country>
-    <id>264</id>
     <name>Åland Islands</name>
     <code>AX</code>
+    <code4></code4>
+    <latitude>60.177</latitude>
+    <longitude>19.915</longitude>
+    <timezone>Europe/Mariehamn</timezone>
   </country>
 </countries>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<currencies generator="crowdfunding">
+<currencies generator="com_crowdfunding">
   <currency>
     <id>1</id>
     <title>United States Dollar</title>
@@ -53,21 +53,21 @@
     <id>8</id>
     <title>Norwegian Krone</title>
     <abbr>NOK</abbr>
-    <symbol></symbol>
+    <symbol>kr</symbol>
     <position>0</position>
   </currency>
   <currency>
     <id>9</id>
     <title>Czech Republic Koruna</title>
     <abbr>CZK</abbr>
-    <symbol></symbol>
+    <symbol>Kč</symbol>
     <position>0</position>
   </currency>
   <currency>
     <id>10</id>
     <title>Danish Krone</title>
     <abbr>DKK</abbr>
-    <symbol></symbol>
+    <symbol>kr</symbol>
     <position>0</position>
   </currency>
   <currency>
@@ -81,7 +81,7 @@
     <id>12</id>
     <title>Hungarian Forint</title>
     <abbr>HUF</abbr>
-    <symbol></symbol>
+    <symbol>Ft</symbol>
     <position>0</position>
   </currency>
   <currency>
@@ -130,7 +130,7 @@
     <id>19</id>
     <title>Polish Zloty</title>
     <abbr>PLN</abbr>
-    <symbol></symbol>
+    <symbol>zł</symbol>
     <position>0</position>
   </currency>
   <currency>
@@ -144,7 +144,7 @@
     <id>21</id>
     <title>Swedish Krona</title>
     <abbr>SEK</abbr>
-    <symbol></symbol>
+    <symbol>kr</symbol>
     <position>0</position>
   </currency>
   <currency>
@@ -159,6 +159,1035 @@
     <title>Bitcoin</title>
     <abbr>BTC</abbr>
     <symbol>฿</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>24</id>
+    <title>UAE Dirham</title>
+    <abbr>AED</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>26</id>
+    <title>Afghani</title>
+    <abbr>AFN</abbr>
+    <symbol>؋</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>27</id>
+    <title>Lek</title>
+    <abbr>ALL</abbr>
+    <symbol>Lek</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>28</id>
+    <title>Armenian Dram</title>
+    <abbr>AMD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>29</id>
+    <title>Netherlands Antillean Guilder</title>
+    <abbr>ANG</abbr>
+    <symbol>ƒ</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>30</id>
+    <title>Kwanza</title>
+    <abbr>AOA</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>31</id>
+    <title>Argentine Peso</title>
+    <abbr>ARS</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>32</id>
+    <title>Aruban Florin</title>
+    <abbr>AWG</abbr>
+    <symbol>ƒ</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>33</id>
+    <title>Azerbaijanian Manat</title>
+    <abbr>AZN</abbr>
+    <symbol>ман</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>34</id>
+    <title>Convertible Mark</title>
+    <abbr>BAM</abbr>
+    <symbol>KM</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>35</id>
+    <title>Barbados Dollar</title>
+    <abbr>BBD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>36</id>
+    <title>Taka</title>
+    <abbr>BDT</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>37</id>
+    <title>Bulgarian Lev</title>
+    <abbr>BGN</abbr>
+    <symbol>лв</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>38</id>
+    <title>Bahraini Dinar</title>
+    <abbr>BHD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>39</id>
+    <title>Burundi Franc</title>
+    <abbr>BIF</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>40</id>
+    <title>Bermudian Dollar</title>
+    <abbr>BMD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>41</id>
+    <title>Brunei Dollar</title>
+    <abbr>BND</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>42</id>
+    <title>Boliviano</title>
+    <abbr>BOB</abbr>
+    <symbol>$b</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>43</id>
+    <title>Mvdol</title>
+    <abbr>BOV</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>44</id>
+    <title>Bahamian Dollar</title>
+    <abbr>BSD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>45</id>
+    <title>Ngultrum</title>
+    <abbr>BTN</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>46</id>
+    <title>Pula</title>
+    <abbr>BWP</abbr>
+    <symbol>P</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>47</id>
+    <title>Belarussian Ruble</title>
+    <abbr>BYR</abbr>
+    <symbol>p.</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>48</id>
+    <title>Belize Dollar</title>
+    <abbr>BZD</abbr>
+    <symbol>BZ$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>49</id>
+    <title>Congolese Franc</title>
+    <abbr>CDF</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>50</id>
+    <title>WIR Euro</title>
+    <abbr>CHE</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>51</id>
+    <title>WIR Franc</title>
+    <abbr>CHW</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>52</id>
+    <title>Unidad de Fomento</title>
+    <abbr>CLF</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>53</id>
+    <title>Chilean Peso</title>
+    <abbr>CLP</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>54</id>
+    <title>Yuan Renminbi</title>
+    <abbr>CNY</abbr>
+    <symbol>¥</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>55</id>
+    <title>Colombian Peso</title>
+    <abbr>COP</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>56</id>
+    <title>Unidad de Valor Real</title>
+    <abbr>COU</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>57</id>
+    <title>Costa Rican Colon</title>
+    <abbr>CRC</abbr>
+    <symbol>₡</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>58</id>
+    <title>Peso Convertible</title>
+    <abbr>CUC</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>59</id>
+    <title>Cuban Peso</title>
+    <abbr>CUP</abbr>
+    <symbol>₱</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>60</id>
+    <title>Cape Verde Escudo</title>
+    <abbr>CVE</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>61</id>
+    <title>Djibouti Franc</title>
+    <abbr>DJF</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>62</id>
+    <title>Dominican Peso</title>
+    <abbr>DOP</abbr>
+    <symbol>RD$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>63</id>
+    <title>Algerian Dinar</title>
+    <abbr>DZD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>64</id>
+    <title>Egyptian Pound</title>
+    <abbr>EGP</abbr>
+    <symbol>£</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>65</id>
+    <title>Nakfa</title>
+    <abbr>ERN</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>66</id>
+    <title>Ethiopian Birr</title>
+    <abbr>ETB</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>67</id>
+    <title>Fiji Dollar</title>
+    <abbr>FJD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>68</id>
+    <title>Falkland Islands Pound</title>
+    <abbr>FKP</abbr>
+    <symbol>£</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>69</id>
+    <title>Lari</title>
+    <abbr>GEL</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>70</id>
+    <title>Ghana Cedi</title>
+    <abbr>GHS</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>71</id>
+    <title>Gibraltar Pound</title>
+    <abbr>GIP</abbr>
+    <symbol>£</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>72</id>
+    <title>Dalasi</title>
+    <abbr>GMD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>73</id>
+    <title>Guinea Franc</title>
+    <abbr>GNF</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>74</id>
+    <title>Quetzal</title>
+    <abbr>GTQ</abbr>
+    <symbol>Q</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>75</id>
+    <title>Guyana Dollar</title>
+    <abbr>GYD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>76</id>
+    <title>Lempira</title>
+    <abbr>HNL</abbr>
+    <symbol>L</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>77</id>
+    <title>Croatian Kuna</title>
+    <abbr>HRK</abbr>
+    <symbol>kn</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>78</id>
+    <title>Gourde</title>
+    <abbr>HTG</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>79</id>
+    <title>Rupiah</title>
+    <abbr>IDR</abbr>
+    <symbol>Rp</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>80</id>
+    <title>Indian Rupee</title>
+    <abbr>INR</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>81</id>
+    <title>Iraqi Dinar</title>
+    <abbr>IQD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>82</id>
+    <title>Iranian Rial</title>
+    <abbr>IRR</abbr>
+    <symbol>﷼</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>83</id>
+    <title>Iceland Krona</title>
+    <abbr>ISK</abbr>
+    <symbol>kr</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>84</id>
+    <title>Jamaican Dollar</title>
+    <abbr>JMD</abbr>
+    <symbol>J$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>85</id>
+    <title>Jordanian Dinar</title>
+    <abbr>JOD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>86</id>
+    <title>Kenyan Shilling</title>
+    <abbr>KES</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>87</id>
+    <title>Som</title>
+    <abbr>KGS</abbr>
+    <symbol>лв</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>88</id>
+    <title>Riel</title>
+    <abbr>KHR</abbr>
+    <symbol>៛</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>89</id>
+    <title>Comoro Franc</title>
+    <abbr>KMF</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>90</id>
+    <title>North Korean Won</title>
+    <abbr>KPW</abbr>
+    <symbol>₩</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>91</id>
+    <title>Won</title>
+    <abbr>KRW</abbr>
+    <symbol>₩</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>92</id>
+    <title>Kuwaiti Dinar</title>
+    <abbr>KWD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>93</id>
+    <title>Cayman Islands Dollar</title>
+    <abbr>KYD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>94</id>
+    <title>Tenge</title>
+    <abbr>KZT</abbr>
+    <symbol>лв</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>95</id>
+    <title>Kip</title>
+    <abbr>LAK</abbr>
+    <symbol>₭</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>96</id>
+    <title>Lebanese Pound</title>
+    <abbr>LBP</abbr>
+    <symbol>£</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>97</id>
+    <title>Sri Lanka Rupee</title>
+    <abbr>LKR</abbr>
+    <symbol>₨</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>98</id>
+    <title>Liberian Dollar</title>
+    <abbr>LRD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>99</id>
+    <title>Loti</title>
+    <abbr>LSL</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>100</id>
+    <title>Lithuanian Litas</title>
+    <abbr>LTL</abbr>
+    <symbol>Lt</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>101</id>
+    <title>Latvian Lats</title>
+    <abbr>LVL</abbr>
+    <symbol>Ls</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>102</id>
+    <title>Libyan Dinar</title>
+    <abbr>LYD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>103</id>
+    <title>Moroccan Dirham</title>
+    <abbr>MAD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>104</id>
+    <title>Moldovan Leu</title>
+    <abbr>MDL</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>105</id>
+    <title>Malagasy Ariary</title>
+    <abbr>MGA</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>106</id>
+    <title>Denar</title>
+    <abbr>MKD</abbr>
+    <symbol>ден</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>107</id>
+    <title>Kyat</title>
+    <abbr>MMK</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>108</id>
+    <title>Tugrik</title>
+    <abbr>MNT</abbr>
+    <symbol>₮</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>109</id>
+    <title>Pataca</title>
+    <abbr>MOP</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>110</id>
+    <title>Ouguiya</title>
+    <abbr>MRO</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>111</id>
+    <title>Mauritius Rupee</title>
+    <abbr>MUR</abbr>
+    <symbol>₨</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>112</id>
+    <title>Rufiyaa</title>
+    <abbr>MVR</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>113</id>
+    <title>Kwacha</title>
+    <abbr>MWK</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>114</id>
+    <title>Mexican Unidad de Inversion (UDI)</title>
+    <abbr>MXV</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>115</id>
+    <title>Malaysian Ringgit</title>
+    <abbr>MYR</abbr>
+    <symbol>RM</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>116</id>
+    <title>Mozambique Metical</title>
+    <abbr>MZN</abbr>
+    <symbol>MT</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>117</id>
+    <title>Namibia Dollar</title>
+    <abbr>NAD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>118</id>
+    <title>Naira</title>
+    <abbr>NGN</abbr>
+    <symbol>₦</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>119</id>
+    <title>Cordoba Oro</title>
+    <abbr>NIO</abbr>
+    <symbol>C$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>120</id>
+    <title>Nepalese Rupee</title>
+    <abbr>NPR</abbr>
+    <symbol>₨</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>121</id>
+    <title>Rial Omani</title>
+    <abbr>OMR</abbr>
+    <symbol>﷼</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>122</id>
+    <title>Balboa</title>
+    <abbr>PAB</abbr>
+    <symbol>B/.</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>123</id>
+    <title>Nuevo Sol</title>
+    <abbr>PEN</abbr>
+    <symbol>S/.</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>124</id>
+    <title>Kina</title>
+    <abbr>PGK</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>125</id>
+    <title>Pakistan Rupee</title>
+    <abbr>PKR</abbr>
+    <symbol>₨</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>126</id>
+    <title>Guarani</title>
+    <abbr>PYG</abbr>
+    <symbol>Gs</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>127</id>
+    <title>Qatari Rial</title>
+    <abbr>QAR</abbr>
+    <symbol>﷼</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>128</id>
+    <title>New Romanian Leu</title>
+    <abbr>RON</abbr>
+    <symbol>lei</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>129</id>
+    <title>Serbian Dinar</title>
+    <abbr>RSD</abbr>
+    <symbol>Дин</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>130</id>
+    <title>Russian Ruble</title>
+    <abbr>RUB</abbr>
+    <symbol>руб</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>131</id>
+    <title>Rwanda Franc</title>
+    <abbr>RWF</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>132</id>
+    <title>Saudi Riyal</title>
+    <abbr>SAR</abbr>
+    <symbol>﷼</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>133</id>
+    <title>Solomon Islands Dollar</title>
+    <abbr>SBD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>134</id>
+    <title>Seychelles Rupee</title>
+    <abbr>SCR</abbr>
+    <symbol>₨</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>135</id>
+    <title>Sudanese Pound</title>
+    <abbr>SDG</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>136</id>
+    <title>Saint Helena Pound</title>
+    <abbr>SHP</abbr>
+    <symbol>£</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>137</id>
+    <title>Leone</title>
+    <abbr>SLL</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>138</id>
+    <title>Somali Shilling</title>
+    <abbr>SOS</abbr>
+    <symbol>S</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>139</id>
+    <title>Surinam Dollar</title>
+    <abbr>SRD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>140</id>
+    <title>South Sudanese Pound</title>
+    <abbr>SSP</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>141</id>
+    <title>Dobra</title>
+    <abbr>STD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>142</id>
+    <title>El Salvador Colon</title>
+    <abbr>SVC</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>143</id>
+    <title>Syrian Pound</title>
+    <abbr>SYP</abbr>
+    <symbol>£</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>144</id>
+    <title>Lilangeni</title>
+    <abbr>SZL</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>145</id>
+    <title>Somoni</title>
+    <abbr>TJS</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>146</id>
+    <title>Turkmenistan New Manat</title>
+    <abbr>TMT</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>147</id>
+    <title>Tunisian Dinar</title>
+    <abbr>TND</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>148</id>
+    <title>Pa'anga</title>
+    <abbr>TOP</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>149</id>
+    <title>Turkish Lira</title>
+    <abbr>TRY</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>150</id>
+    <title>Trinidad and Tobago Dollar</title>
+    <abbr>TTD</abbr>
+    <symbol>TT$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>151</id>
+    <title>Tanzanian Shilling</title>
+    <abbr>TZS</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>152</id>
+    <title>Hryvnia</title>
+    <abbr>UAH</abbr>
+    <symbol>₴</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>153</id>
+    <title>Uganda Shilling</title>
+    <abbr>UGX</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>154</id>
+    <title>US Dollar (Next day)</title>
+    <abbr>USN</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>155</id>
+    <title>US Dollar (Same day)</title>
+    <abbr>USS</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>157</id>
+    <title>Peso Uruguayo</title>
+    <abbr>UYU</abbr>
+    <symbol>$U</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>158</id>
+    <title>Uzbekistan Sum</title>
+    <abbr>UZS</abbr>
+    <symbol>лв</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>159</id>
+    <title>Bolivar</title>
+    <abbr>VEF</abbr>
+    <symbol>Bs</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>160</id>
+    <title>Dong</title>
+    <abbr>VND</abbr>
+    <symbol>₫</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>161</id>
+    <title>Vatu</title>
+    <abbr>VUV</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>162</id>
+    <title>Tala</title>
+    <abbr>WST</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>164</id>
+    <title>Silver</title>
+    <abbr>XAG</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>165</id>
+    <title>Gold</title>
+    <abbr>XAU</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>170</id>
+    <title>East Caribbean Dollar</title>
+    <abbr>XCD</abbr>
+    <symbol>$</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>173</id>
+    <title>Palladium</title>
+    <abbr>XPD</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>175</id>
+    <title>Platinum</title>
+    <abbr>XPT</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>176</id>
+    <title>Sucre</title>
+    <abbr>XSU</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>180</id>
+    <title>Yemeni Rial</title>
+    <abbr>YER</abbr>
+    <symbol>﷼</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>181</id>
+    <title>Rand</title>
+    <abbr>ZAR</abbr>
+    <symbol>R</symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>182</id>
+    <title>Zambian Kwacha</title>
+    <abbr>ZMW</abbr>
+    <symbol></symbol>
+    <position>0</position>
+  </currency>
+  <currency>
+    <id>183</id>
+    <title>Zimbabwe Dollar</title>
+    <abbr>ZWL</abbr>
+    <symbol></symbol>
     <position>0</position>
   </currency>
 </currencies>
