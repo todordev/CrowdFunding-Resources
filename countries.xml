@@ -28,15 +28,6 @@
     <timezone>Africa/Algiers</timezone>
   </country>
   <country>
-    <id>4</id>
-    <name>American Samoa</name>
-    <code>AS</code>
-    <code4></code4>
-    <latitude>-14.3333</latitude>
-    <longitude>-170</longitude>
-    <timezone>Pacific/Pago_Pago</timezone>
-  </country>
-  <country>
     <id>5</id>
     <name>Andorra</name>
     <code>AD</code>
