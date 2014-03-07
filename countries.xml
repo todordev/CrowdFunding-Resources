@@ -28,7 +28,7 @@
     <timezone>Africa/Algiers</timezone>
   </country>
   <country>
-    <id>5</id>
+    <id>4</id>
     <name>Andorra</name>
     <code>AD</code>
     <code4></code4>
@@ -37,7 +37,7 @@
     <timezone>Europe/Andorra</timezone>
   </country>
   <country>
-    <id>6</id>
+    <id>5</id>
     <name>Angola</name>
     <code>AO</code>
     <code4></code4>
@@ -46,7 +46,7 @@
     <timezone>Africa/Luanda</timezone>
   </country>
   <country>
-    <id>7</id>
+    <id>6</id>
     <name>Anguilla</name>
     <code>AI</code>
     <code4></code4>
@@ -55,7 +55,7 @@
     <timezone>America/Anguilla</timezone>
   </country>
   <country>
-    <id>9</id>
+    <id>7</id>
     <name>Antigua and Barbuda</name>
     <code>AG</code>
     <code4></code4>
@@ -64,7 +64,7 @@
     <timezone>America/Antigua</timezone>
   </country>
   <country>
-    <id>10</id>
+    <id>8</id>
     <name>Argentina</name>
     <code>AR</code>
     <code4>ar_IT</code4>
@@ -73,7 +73,7 @@
     <timezone>America/Argentina/Buenos_Aires</timezone>
   </country>
   <country>
-    <id>11</id>
+    <id>9</id>
     <name>Armenia</name>
     <code>AM</code>
     <code4>am_ET</code4>
@@ -82,7 +82,7 @@
     <timezone>Asia/Yerevan</timezone>
   </country>
   <country>
-    <id>12</id>
+    <id>10</id>
     <name>Aruba</name>
     <code>AW</code>
     <code4></code4>
@@ -91,7 +91,7 @@
     <timezone>America/Aruba</timezone>
   </country>
   <country>
-    <id>13</id>
+    <id>11</id>
     <name>Australia</name>
     <code>AU</code>
     <code4></code4>
@@ -100,7 +100,7 @@
     <timezone>Australia/Sydney</timezone>
   </country>
   <country>
-    <id>14</id>
+    <id>12</id>
     <name>Austria</name>
     <code>AT</code>
     <code4></code4>
@@ -109,7 +109,7 @@
     <timezone>Europe/Vienna</timezone>
   </country>
   <country>
-    <id>15</id>
+    <id>13</id>
     <name>Azerbaijan</name>
     <code>AZ</code>
     <code4>az_AZ</code4>
@@ -118,7 +118,7 @@
     <timezone>Asia/Baku</timezone>
   </country>
   <country>
-    <id>16</id>
+    <id>14</id>
     <name>Bahamas</name>
     <code>BS</code>
     <code4>bs_KS</code4>
@@ -127,7 +127,7 @@
     <timezone>America/Nassau</timezone>
   </country>
   <country>
-    <id>17</id>
+    <id>15</id>
     <name>Bahrain</name>
     <code>BH</code>
     <code4>ar_BH</code4>
@@ -136,7 +136,7 @@
     <timezone>Asia/Bahrain</timezone>
   </country>
   <country>
-    <id>18</id>
+    <id>16</id>
     <name>Bangladesh</name>
     <code>BD</code>
     <code4></code4>
@@ -145,7 +145,7 @@
     <timezone>Asia/Dhaka</timezone>
   </country>
   <country>
-    <id>19</id>
+    <id>17</id>
     <name>Barbados</name>
     <code>BB</code>
     <code4></code4>
@@ -154,7 +154,7 @@
     <timezone>America/Barbados</timezone>
   </country>
   <country>
-    <id>20</id>
+    <id>18</id>
     <name>Belarus</name>
     <code>BY</code>
     <code4></code4>
@@ -163,7 +163,7 @@
     <timezone>Europe/Minsk</timezone>
   </country>
   <country>
-    <id>21</id>
+    <id>19</id>
     <name>Belgium</name>
     <code>BE</code>
     <code4>be_BY</code4>
@@ -172,7 +172,7 @@
     <timezone>Europe/Brussels</timezone>
   </country>
   <country>
-    <id>22</id>
+    <id>20</id>
     <name>Belize</name>
     <code>BZ</code>
     <code4></code4>
@@ -181,7 +181,7 @@
     <timezone>America/Belize</timezone>
   </country>
   <country>
-    <id>23</id>
+    <id>21</id>
     <name>Benin</name>
     <code>BJ</code>
     <code4></code4>
@@ -190,7 +190,7 @@
     <timezone>Africa/Porto-Novo</timezone>
   </country>
   <country>
-    <id>24</id>
+    <id>22</id>
     <name>Bermuda</name>
     <code>BM</code>
     <code4></code4>
@@ -199,7 +199,7 @@
     <timezone>Atlantic/Bermuda</timezone>
   </country>
   <country>
-    <id>25</id>
+    <id>23</id>
     <name>Bhutan</name>
     <code>BT</code>
     <code4></code4>
@@ -208,7 +208,7 @@
     <timezone>Asia/Thimphu</timezone>
   </country>
   <country>
-    <id>26</id>
+    <id>24</id>
     <name>Bolivia</name>
     <code>BO</code>
     <code4></code4>
@@ -217,7 +217,7 @@
     <timezone>America/La_Paz</timezone>
   </country>
   <country>
-    <id>27</id>
+    <id>25</id>
     <name>Bosnia and Herzegovina</name>
     <code>BA</code>
     <code4></code4>
@@ -226,7 +226,7 @@
     <timezone>Europe/Sarajevo</timezone>
   </country>
   <country>
-    <id>28</id>
+    <id>26</id>
     <name>Botswana</name>
     <code>BW</code>
     <code4></code4>
@@ -235,7 +235,7 @@
     <timezone>Africa/Gaborone</timezone>
   </country>
   <country>
-    <id>29</id>
+    <id>27</id>
     <name>Bouvet Island</name>
     <code>BV</code>
     <code4></code4>
@@ -244,7 +244,7 @@
     <timezone>Antarctica/Syowa</timezone>
   </country>
   <country>
-    <id>30</id>
+    <id>28</id>
     <name>Brazil</name>
     <code>BR</code>
     <code4></code4>
@@ -253,7 +253,7 @@
     <timezone>America/Sao_Paulo</timezone>
   </country>
   <country>
-    <id>31</id>
+    <id>29</id>
     <name>British Antarctic Territory</name>
     <code>BQ</code>
     <code4></code4>
@@ -262,7 +262,7 @@
     <timezone>America/Kralendijk</timezone>
   </country>
   <country>
-    <id>32</id>
+    <id>30</id>
     <name>British Indian Ocean Territory</name>
     <code>IO</code>
     <code4></code4>
@@ -271,7 +271,7 @@
     <timezone>Indian/Chagos</timezone>
   </country>
   <country>
-    <id>33</id>
+    <id>31</id>
     <name>British Virgin Islands</name>
     <code>VG</code>
     <code4></code4>
@@ -280,7 +280,7 @@
     <timezone>America/Tortola</timezone>
   </country>
   <country>
-    <id>34</id>
+    <id>32</id>
     <name>Brunei</name>
     <code>BN</code>
     <code4>bn_IN</code4>
@@ -289,7 +289,7 @@
     <timezone>Asia/Brunei</timezone>
   </country>
   <country>
-    <id>35</id>
+    <id>33</id>
     <name>Bulgaria</name>
     <code>BG</code>
     <code4>bg_BG</code4>
@@ -298,7 +298,7 @@
     <timezone>Europe/Sofia</timezone>
   </country>
   <country>
-    <id>36</id>
+    <id>34</id>
     <name>Burkina Faso</name>
     <code>BF</code>
     <code4></code4>
@@ -307,7 +307,7 @@
     <timezone>Africa/Ouagadougou</timezone>
   </country>
   <country>
-    <id>37</id>
+    <id>35</id>
     <name>Burundi</name>
     <code>BI</code>
     <code4></code4>
@@ -316,7 +316,7 @@
     <timezone>Africa/Bujumbura</timezone>
   </country>
   <country>
-    <id>38</id>
+    <id>36</id>
     <name>Cambodia</name>
     <code>KH</code>
     <code4></code4>
@@ -325,7 +325,7 @@
     <timezone>Asia/Phnom_Penh</timezone>
   </country>
   <country>
-    <id>39</id>
+    <id>37</id>
     <name>Cameroon</name>
     <code>CM</code>
     <code4></code4>
@@ -334,7 +334,7 @@
     <timezone>Africa/Douala</timezone>
   </country>
   <country>
-    <id>40</id>
+    <id>38</id>
     <name>Canada</name>
     <code>CA</code>
     <code4>ca_ES</code4>
@@ -343,7 +343,7 @@
     <timezone>America/Toronto</timezone>
   </country>
   <country>
-    <id>41</id>
+    <id>39</id>
     <name>Canton and Enderbury Islands</name>
     <code>CT</code>
     <code4></code4>
@@ -352,7 +352,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>42</id>
+    <id>40</id>
     <name>Cape Verde</name>
     <code>CV</code>
     <code4></code4>
@@ -361,7 +361,7 @@
     <timezone>Atlantic/Cape_Verde</timezone>
   </country>
   <country>
-    <id>43</id>
+    <id>41</id>
     <name>Cayman Islands</name>
     <code>KY</code>
     <code4>ky_KG</code4>
@@ -370,7 +370,7 @@
     <timezone>America/Cayman</timezone>
   </country>
   <country>
-    <id>44</id>
+    <id>42</id>
     <name>Central African Republic</name>
     <code>CF</code>
     <code4>fr_CA</code4>
@@ -379,7 +379,7 @@
     <timezone>Africa/Bangui</timezone>
   </country>
   <country>
-    <id>45</id>
+    <id>43</id>
     <name>Chad</name>
     <code>TD</code>
     <code4></code4>
@@ -388,7 +388,7 @@
     <timezone>Africa/Ndjamena</timezone>
   </country>
   <country>
-    <id>46</id>
+    <id>44</id>
     <name>Chile</name>
     <code>CL</code>
     <code4></code4>
@@ -397,7 +397,7 @@
     <timezone>America/Santiago</timezone>
   </country>
   <country>
-    <id>47</id>
+    <id>45</id>
     <name>China</name>
     <code>CN</code>
     <code4></code4>
@@ -406,7 +406,7 @@
     <timezone>Asia/Shanghai</timezone>
   </country>
   <country>
-    <id>48</id>
+    <id>46</id>
     <name>Christmas Island</name>
     <code>CX</code>
     <code4></code4>
@@ -415,7 +415,7 @@
     <timezone>Indian/Christmas</timezone>
   </country>
   <country>
-    <id>49</id>
+    <id>47</id>
     <name>Cocos [Keeling] Islands</name>
     <code>CC</code>
     <code4></code4>
@@ -424,7 +424,7 @@
     <timezone>Indian/Cocos</timezone>
   </country>
   <country>
-    <id>50</id>
+    <id>48</id>
     <name>Colombia</name>
     <code>CO</code>
     <code4></code4>
@@ -433,7 +433,7 @@
     <timezone>America/Bogota</timezone>
   </country>
   <country>
-    <id>51</id>
+    <id>49</id>
     <name>Comoros</name>
     <code>KM</code>
     <code4>cb_KH</code4>
@@ -442,7 +442,7 @@
     <timezone>Indian/Comoro</timezone>
   </country>
   <country>
-    <id>52</id>
+    <id>50</id>
     <name>Congo - Brazzaville</name>
     <code>CG</code>
     <code4></code4>
@@ -451,7 +451,7 @@
     <timezone>Africa/Brazzaville</timezone>
   </country>
   <country>
-    <id>53</id>
+    <id>51</id>
     <name>Congo - Kinshasa</name>
     <code>CD</code>
     <code4></code4>
@@ -460,7 +460,7 @@
     <timezone>Africa/Kinshasa</timezone>
   </country>
   <country>
-    <id>54</id>
+    <id>52</id>
     <name>Cook Islands</name>
     <code>CK</code>
     <code4></code4>
@@ -469,7 +469,7 @@
     <timezone>Pacific/Rarotonga</timezone>
   </country>
   <country>
-    <id>55</id>
+    <id>53</id>
     <name>Costa Rica</name>
     <code>CR</code>
     <code4></code4>
@@ -478,7 +478,7 @@
     <timezone>America/Costa_Rica</timezone>
   </country>
   <country>
-    <id>56</id>
+    <id>54</id>
     <name>Croatia</name>
     <code>HR</code>
     <code4>hr_HR</code4>
@@ -487,7 +487,7 @@
     <timezone>Europe/Zagreb</timezone>
   </country>
   <country>
-    <id>57</id>
+    <id>55</id>
     <name>Cuba</name>
     <code>CU</code>
     <code4></code4>
@@ -496,7 +496,7 @@
     <timezone>America/Havana</timezone>
   </country>
   <country>
-    <id>58</id>
+    <id>56</id>
     <name>Cyprus</name>
     <code>CY</code>
     <code4>cy_GB</code4>
@@ -505,7 +505,7 @@
     <timezone>Asia/Nicosia</timezone>
   </country>
   <country>
-    <id>59</id>
+    <id>57</id>
     <name>Czech Republic</name>
     <code>CZ</code>
     <code4></code4>
@@ -514,7 +514,7 @@
     <timezone>Europe/Prague</timezone>
   </country>
   <country>
-    <id>60</id>
+    <id>58</id>
     <name>Côte d’Ivoire</name>
     <code>CI</code>
     <code4></code4>
@@ -523,7 +523,7 @@
     <timezone>Africa/Abidjan</timezone>
   </country>
   <country>
-    <id>61</id>
+    <id>59</id>
     <name>Denmark</name>
     <code>DK</code>
     <code4></code4>
@@ -532,7 +532,7 @@
     <timezone>Europe/Copenhagen</timezone>
   </country>
   <country>
-    <id>62</id>
+    <id>60</id>
     <name>Djibouti</name>
     <code>DJ</code>
     <code4></code4>
@@ -541,7 +541,7 @@
     <timezone>Africa/Djibouti</timezone>
   </country>
   <country>
-    <id>63</id>
+    <id>61</id>
     <name>Dominica</name>
     <code>DM</code>
     <code4></code4>
@@ -550,7 +550,7 @@
     <timezone>America/Dominica</timezone>
   </country>
   <country>
-    <id>64</id>
+    <id>62</id>
     <name>Dominican Republic</name>
     <code>DO</code>
     <code4></code4>
@@ -559,7 +559,7 @@
     <timezone>America/Santo_Domingo</timezone>
   </country>
   <country>
-    <id>65</id>
+    <id>63</id>
     <name>Dronning Maud Land</name>
     <code>NQ</code>
     <code4></code4>
@@ -568,7 +568,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>66</id>
+    <id>64</id>
     <name>Ecuador</name>
     <code>EC</code>
     <code4></code4>
@@ -577,7 +577,7 @@
     <timezone>America/Guayaquil</timezone>
   </country>
   <country>
-    <id>67</id>
+    <id>65</id>
     <name>Egypt</name>
     <code>EG</code>
     <code4></code4>
@@ -586,7 +586,7 @@
     <timezone>Africa/Cairo</timezone>
   </country>
   <country>
-    <id>68</id>
+    <id>66</id>
     <name>El Salvador</name>
     <code>SV</code>
     <code4>sv_SE</code4>
@@ -595,7 +595,7 @@
     <timezone>America/El_Salvador</timezone>
   </country>
   <country>
-    <id>69</id>
+    <id>67</id>
     <name>Equatorial Guinea</name>
     <code>GQ</code>
     <code4></code4>
@@ -604,7 +604,7 @@
     <timezone>Africa/Malabo</timezone>
   </country>
   <country>
-    <id>70</id>
+    <id>68</id>
     <name>Eritrea</name>
     <code>ER</code>
     <code4></code4>
@@ -613,7 +613,7 @@
     <timezone>Africa/Asmara</timezone>
   </country>
   <country>
-    <id>71</id>
+    <id>69</id>
     <name>Estonia</name>
     <code>EE</code>
     <code4></code4>
@@ -622,7 +622,7 @@
     <timezone>Europe/Tallinn</timezone>
   </country>
   <country>
-    <id>72</id>
+    <id>70</id>
     <name>Ethiopia</name>
     <code>ET</code>
     <code4>et_EE</code4>
@@ -631,7 +631,7 @@
     <timezone>Africa/Addis_Ababa</timezone>
   </country>
   <country>
-    <id>73</id>
+    <id>71</id>
     <name>Falkland Islands</name>
     <code>FK</code>
     <code4></code4>
@@ -640,7 +640,7 @@
     <timezone>Atlantic/Stanley</timezone>
   </country>
   <country>
-    <id>74</id>
+    <id>72</id>
     <name>Faroe Islands</name>
     <code>FO</code>
     <code4>fo_FO</code4>
@@ -649,7 +649,7 @@
     <timezone>Atlantic/Faroe</timezone>
   </country>
   <country>
-    <id>75</id>
+    <id>73</id>
     <name>Fiji</name>
     <code>FJ</code>
     <code4></code4>
@@ -658,7 +658,7 @@
     <timezone>Pacific/Fiji</timezone>
   </country>
   <country>
-    <id>76</id>
+    <id>74</id>
     <name>Finland</name>
     <code>FI</code>
     <code4>fi_FI</code4>
@@ -667,7 +667,7 @@
     <timezone>Europe/Helsinki</timezone>
   </country>
   <country>
-    <id>77</id>
+    <id>75</id>
     <name>France</name>
     <code>FR</code>
     <code4>fr_FR</code4>
@@ -676,7 +676,7 @@
     <timezone>Europe/Paris</timezone>
   </country>
   <country>
-    <id>78</id>
+    <id>76</id>
     <name>French Guiana</name>
     <code>GF</code>
     <code4></code4>
@@ -685,7 +685,7 @@
     <timezone>America/Cayenne</timezone>
   </country>
   <country>
-    <id>79</id>
+    <id>77</id>
     <name>French Polynesia</name>
     <code>PF</code>
     <code4></code4>
@@ -694,7 +694,7 @@
     <timezone>Pacific/Marquesas</timezone>
   </country>
   <country>
-    <id>80</id>
+    <id>78</id>
     <name>French Southern Territories</name>
     <code>TF</code>
     <code4></code4>
@@ -703,7 +703,7 @@
     <timezone>Indian/Kerguelen</timezone>
   </country>
   <country>
-    <id>81</id>
+    <id>79</id>
     <name>French Southern and Antarctic Territories</name>
     <code>FQ</code>
     <code4></code4>
@@ -712,7 +712,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>82</id>
+    <id>80</id>
     <name>Gabon</name>
     <code>GA</code>
     <code4>ga_IE</code4>
@@ -721,7 +721,7 @@
     <timezone>Africa/Libreville</timezone>
   </country>
   <country>
-    <id>83</id>
+    <id>81</id>
     <name>Gambia</name>
     <code>GM</code>
     <code4></code4>
@@ -730,7 +730,7 @@
     <timezone>Africa/Banjul</timezone>
   </country>
   <country>
-    <id>84</id>
+    <id>82</id>
     <name>Georgia</name>
     <code>GE</code>
     <code4></code4>
@@ -739,7 +739,7 @@
     <timezone>Asia/Tbilisi</timezone>
   </country>
   <country>
-    <id>85</id>
+    <id>83</id>
     <name>Germany</name>
     <code>DE</code>
     <code4>de_DE</code4>
@@ -748,7 +748,7 @@
     <timezone>Europe/Berlin</timezone>
   </country>
   <country>
-    <id>86</id>
+    <id>84</id>
     <name>Ghana</name>
     <code>GH</code>
     <code4></code4>
@@ -757,7 +757,7 @@
     <timezone>Africa/Accra</timezone>
   </country>
   <country>
-    <id>87</id>
+    <id>85</id>
     <name>Gibraltar</name>
     <code>GI</code>
     <code4></code4>
@@ -766,7 +766,7 @@
     <timezone>Europe/Gibraltar</timezone>
   </country>
   <country>
-    <id>88</id>
+    <id>86</id>
     <name>Greece</name>
     <code>GR</code>
     <code4></code4>
@@ -775,7 +775,7 @@
     <timezone>Europe/Athens</timezone>
   </country>
   <country>
-    <id>89</id>
+    <id>87</id>
     <name>Greenland</name>
     <code>GL</code>
     <code4>gl_ES</code4>
@@ -784,7 +784,7 @@
     <timezone>America/Godthab</timezone>
   </country>
   <country>
-    <id>90</id>
+    <id>88</id>
     <name>Grenada</name>
     <code>GD</code>
     <code4>gd_GB</code4>
@@ -793,7 +793,7 @@
     <timezone>America/Grenada</timezone>
   </country>
   <country>
-    <id>91</id>
+    <id>89</id>
     <name>Guadeloupe</name>
     <code>GP</code>
     <code4></code4>
@@ -802,7 +802,7 @@
     <timezone>America/Guadeloupe</timezone>
   </country>
   <country>
-    <id>92</id>
+    <id>90</id>
     <name>Guam</name>
     <code>GU</code>
     <code4>gu_IN</code4>
@@ -811,7 +811,7 @@
     <timezone>Pacific/Guam</timezone>
   </country>
   <country>
-    <id>93</id>
+    <id>91</id>
     <name>Guatemala</name>
     <code>GT</code>
     <code4></code4>
@@ -820,7 +820,7 @@
     <timezone>America/Guatemala</timezone>
   </country>
   <country>
-    <id>94</id>
+    <id>92</id>
     <name>Guernsey</name>
     <code>GG</code>
     <code4></code4>
@@ -829,7 +829,7 @@
     <timezone>Europe/Guernsey</timezone>
   </country>
   <country>
-    <id>95</id>
+    <id>93</id>
     <name>Guinea</name>
     <code>GN</code>
     <code4></code4>
@@ -838,7 +838,7 @@
     <timezone>Africa/Conakry</timezone>
   </country>
   <country>
-    <id>96</id>
+    <id>94</id>
     <name>Guinea-Bissau</name>
     <code>GW</code>
     <code4></code4>
@@ -847,7 +847,7 @@
     <timezone>Africa/Bissau</timezone>
   </country>
   <country>
-    <id>97</id>
+    <id>95</id>
     <name>Guyana</name>
     <code>GY</code>
     <code4></code4>
@@ -856,7 +856,7 @@
     <timezone>America/Guyana</timezone>
   </country>
   <country>
-    <id>98</id>
+    <id>96</id>
     <name>Haiti</name>
     <code>HT</code>
     <code4></code4>
@@ -865,7 +865,7 @@
     <timezone>America/Port-au-Prince</timezone>
   </country>
   <country>
-    <id>99</id>
+    <id>97</id>
     <name>Heard Island and McDonald Islands</name>
     <code>HM</code>
     <code4></code4>
@@ -874,7 +874,7 @@
     <timezone></timezone>
   </country>
   <country>
-    <id>100</id>
+    <id>98</id>
     <name>Honduras</name>
     <code>HN</code>
     <code4></code4>
@@ -883,7 +883,7 @@
     <timezone>America/Tegucigalpa</timezone>
   </country>
   <country>
-    <id>101</id>
+    <id>99</id>
     <name>Hong Kong SAR China</name>
     <code>HK</code>
     <code4></code4>
@@ -892,7 +892,7 @@
     <timezone>Asia/Hong_Kong</timezone>
   </country>
   <country>
-    <id>102</id>
+    <id>100</id>
     <name>Hungary</name>
     <code>HU</code>
     <code4>hu_HU</code4>
@@ -901,7 +901,7 @@
     <timezone>Europe/Budapest</timezone>
   </country>
   <country>
-    <id>103</id>
+    <id>101</id>
     <name>Iceland</name>
     <code>IS</code>
     <code4>is_IS</code4>
@@ -910,7 +910,7 @@
     <timezone>Atlantic/Reykjavik</timezone>
   </country>
   <country>
-    <id>104</id>
+    <id>102</id>
     <name>India</name>
     <code>IN</code>
     <code4></code4>
@@ -919,7 +919,7 @@
     <timezone>Asia/Kolkata</timezone>
   </country>
   <country>
-    <id>105</id>
+    <id>103</id>
     <name>Indonesia</name>
     <code>ID</code>
     <code4>id_ID</code4>
@@ -928,7 +928,7 @@
     <timezone>Asia/Jakarta</timezone>
   </country>
   <country>
-    <id>106</id>
+    <id>104</id>
     <name>Iran</name>
     <code>IR</code>
     <code4></code4>
@@ -937,7 +937,7 @@
     <timezone>Asia/Tehran</timezone>
   </country>
   <country>
-    <id>107</id>
+    <id>105</id>
     <name>Iraq</name>
     <code>IQ</code>
     <code4></code4>
@@ -946,7 +946,7 @@
     <timezone>Asia/Baghdad</timezone>
   </country>
   <country>
-    <id>108</id>
+    <id>106</id>
     <name>Ireland</name>
     <code>IE</code>
     <code4></code4>
@@ -955,7 +955,7 @@
     <timezone>Europe/Dublin</timezone>
   </country>
   <country>
-    <id>109</id>
+    <id>107</id>
     <name>Isle of Man</name>
     <code>IM</code>
     <code4></code4>
@@ -964,7 +964,7 @@
     <timezone>Europe/Isle_of_Man</timezone>
   </country>
   <country>
-    <id>110</id>
+    <id>108</id>
     <name>Israel</name>
     <code>IL</code>
     <code4></code4>
@@ -973,7 +973,7 @@
     <timezone>Asia/Jerusalem</timezone>
   </country>
   <country>
-    <id>111</id>
+    <id>109</id>
     <name>Italy</name>
     <code>IT</code>
     <code4>it_IT</code4>
@@ -982,7 +982,7 @@
     <timezone>Europe/Rome</timezone>
   </country>
   <country>
-    <id>112</id>
+    <id>110</id>
     <name>Jamaica</name>
     <code>JM</code>
     <code4></code4>
@@ -991,7 +991,7 @@
     <timezone>America/Jamaica</timezone>
   </country>
   <country>
-    <id>113</id>
+    <id>111</id>
     <name>Japan</name>
     <code>JP</code>
     <code4></code4>
@@ -1000,7 +1000,7 @@
     <timezone>Asia/Tokyo</timezone>
   </country>
   <country>
-    <id>114</id>
+    <id>112</id>
     <name>Jersey</name>
     <code>JE</code>
     <code4></code4>
@@ -1009,7 +1009,7 @@
     <timezone>Europe/Jersey</timezone>
   </country>
   <country>
-    <id>115</id>
+    <id>113</id>
     <name>Johnston Island</name>
     <code>JT</code>
     <code4></code4>
@@ -1018,7 +1018,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>116</id>
+    <id>114</id>
     <name>Jordan</name>
     <code>JO</code>
     <code4></code4>
@@ -1027,7 +1027,7 @@
     <timezone>Asia/Amman</timezone>
   </country>
   <country>
-    <id>117</id>
+    <id>115</id>
     <name>Kazakhstan</name>
     <code>KZ</code>
     <code4></code4>
@@ -1036,7 +1036,7 @@
     <timezone>Asia/Almaty</timezone>
   </country>
   <country>
-    <id>118</id>
+    <id>116</id>
     <name>Kenya</name>
     <code>KE</code>
     <code4></code4>
@@ -1045,7 +1045,7 @@
     <timezone>Africa/Nairobi</timezone>
   </country>
   <country>
-    <id>119</id>
+    <id>117</id>
     <name>Kiribati</name>
     <code>KI</code>
     <code4></code4>
@@ -1054,7 +1054,7 @@
     <timezone>Pacific/Tarawa</timezone>
   </country>
   <country>
-    <id>120</id>
+    <id>118</id>
     <name>Kuwait</name>
     <code>KW</code>
     <code4></code4>
@@ -1063,7 +1063,7 @@
     <timezone>Asia/Kuwait</timezone>
   </country>
   <country>
-    <id>121</id>
+    <id>119</id>
     <name>Kyrgyzstan</name>
     <code>KG</code>
     <code4></code4>
@@ -1072,7 +1072,7 @@
     <timezone>Asia/Bishkek</timezone>
   </country>
   <country>
-    <id>122</id>
+    <id>120</id>
     <name>Laos</name>
     <code>LA</code>
     <code4>es_LM</code4>
@@ -1081,7 +1081,7 @@
     <timezone>Asia/Vientiane</timezone>
   </country>
   <country>
-    <id>123</id>
+    <id>121</id>
     <name>Latvia</name>
     <code>LV</code>
     <code4>lv_LV</code4>
@@ -1090,7 +1090,7 @@
     <timezone>Europe/Riga</timezone>
   </country>
   <country>
-    <id>124</id>
+    <id>122</id>
     <name>Lebanon</name>
     <code>LB</code>
     <code4></code4>
@@ -1099,7 +1099,7 @@
     <timezone>Asia/Beirut</timezone>
   </country>
   <country>
-    <id>125</id>
+    <id>123</id>
     <name>Lesotho</name>
     <code>LS</code>
     <code4></code4>
@@ -1108,7 +1108,7 @@
     <timezone>Africa/Maseru</timezone>
   </country>
   <country>
-    <id>126</id>
+    <id>124</id>
     <name>Liberia</name>
     <code>LR</code>
     <code4></code4>
@@ -1117,7 +1117,7 @@
     <timezone>Africa/Monrovia</timezone>
   </country>
   <country>
-    <id>127</id>
+    <id>125</id>
     <name>Libya</name>
     <code>LY</code>
     <code4></code4>
@@ -1126,7 +1126,7 @@
     <timezone>Africa/Tripoli</timezone>
   </country>
   <country>
-    <id>128</id>
+    <id>126</id>
     <name>Liechtenstein</name>
     <code>LI</code>
     <code4></code4>
@@ -1135,7 +1135,7 @@
     <timezone>Europe/Vaduz</timezone>
   </country>
   <country>
-    <id>129</id>
+    <id>127</id>
     <name>Lithuania</name>
     <code>LT</code>
     <code4>lt_LT</code4>
@@ -1144,7 +1144,7 @@
     <timezone>Europe/Vilnius</timezone>
   </country>
   <country>
-    <id>130</id>
+    <id>128</id>
     <name>Luxembourg</name>
     <code>LU</code>
     <code4></code4>
@@ -1153,7 +1153,7 @@
     <timezone>Europe/Luxembourg</timezone>
   </country>
   <country>
-    <id>131</id>
+    <id>129</id>
     <name>Macau SAR China</name>
     <code>MO</code>
     <code4></code4>
@@ -1162,7 +1162,7 @@
     <timezone>Asia/Macau</timezone>
   </country>
   <country>
-    <id>132</id>
+    <id>130</id>
     <name>Macedonia</name>
     <code>MK</code>
     <code4>mk_MK</code4>
@@ -1171,7 +1171,7 @@
     <timezone>Europe/Skopje</timezone>
   </country>
   <country>
-    <id>133</id>
+    <id>131</id>
     <name>Madagascar</name>
     <code>MG</code>
     <code4></code4>
@@ -1180,7 +1180,7 @@
     <timezone>Indian/Antananarivo</timezone>
   </country>
   <country>
-    <id>134</id>
+    <id>132</id>
     <name>Malawi</name>
     <code>MW</code>
     <code4></code4>
@@ -1189,7 +1189,7 @@
     <timezone>Africa/Blantyre</timezone>
   </country>
   <country>
-    <id>135</id>
+    <id>133</id>
     <name>Malaysia</name>
     <code>MY</code>
     <code4></code4>
@@ -1198,7 +1198,7 @@
     <timezone>Asia/Kuala_Lumpur</timezone>
   </country>
   <country>
-    <id>136</id>
+    <id>134</id>
     <name>Maldives</name>
     <code>MV</code>
     <code4></code4>
@@ -1207,7 +1207,7 @@
     <timezone>Indian/Maldives</timezone>
   </country>
   <country>
-    <id>137</id>
+    <id>135</id>
     <name>Mali</name>
     <code>ML</code>
     <code4>ml_IN</code4>
@@ -1216,7 +1216,7 @@
     <timezone>Africa/Bamako</timezone>
   </country>
   <country>
-    <id>138</id>
+    <id>136</id>
     <name>Malta</name>
     <code>MT</code>
     <code4>mt_MT</code4>
@@ -1225,7 +1225,7 @@
     <timezone>Europe/Malta</timezone>
   </country>
   <country>
-    <id>139</id>
+    <id>137</id>
     <name>Marshall Islands</name>
     <code>MH</code>
     <code4></code4>
@@ -1234,7 +1234,7 @@
     <timezone>Pacific/Kwajalein</timezone>
   </country>
   <country>
-    <id>140</id>
+    <id>138</id>
     <name>Martinique</name>
     <code>MQ</code>
     <code4></code4>
@@ -1243,7 +1243,7 @@
     <timezone>America/Martinique</timezone>
   </country>
   <country>
-    <id>141</id>
+    <id>139</id>
     <name>Mauritania</name>
     <code>MR</code>
     <code4>mr_IN</code4>
@@ -1252,7 +1252,7 @@
     <timezone>Africa/Nouakchott</timezone>
   </country>
   <country>
-    <id>142</id>
+    <id>140</id>
     <name>Mauritius</name>
     <code>MU</code>
     <code4></code4>
@@ -1261,7 +1261,7 @@
     <timezone>Indian/Mauritius</timezone>
   </country>
   <country>
-    <id>143</id>
+    <id>141</id>
     <name>Mayotte</name>
     <code>YT</code>
     <code4></code4>
@@ -1270,7 +1270,7 @@
     <timezone>Indian/Mayotte</timezone>
   </country>
   <country>
-    <id>144</id>
+    <id>142</id>
     <name>Metropolitan France</name>
     <code>FX</code>
     <code4></code4>
@@ -1279,7 +1279,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>145</id>
+    <id>143</id>
     <name>Mexico</name>
     <code>MX</code>
     <code4></code4>
@@ -1288,7 +1288,7 @@
     <timezone>America/Mexico_City</timezone>
   </country>
   <country>
-    <id>146</id>
+    <id>144</id>
     <name>Micronesia</name>
     <code>FM</code>
     <code4></code4>
@@ -1297,7 +1297,7 @@
     <timezone>Pacific/Pohnpei</timezone>
   </country>
   <country>
-    <id>147</id>
+    <id>145</id>
     <name>Midway Islands</name>
     <code>MI</code>
     <code4></code4>
@@ -1306,7 +1306,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>148</id>
+    <id>146</id>
     <name>Moldova</name>
     <code>MD</code>
     <code4></code4>
@@ -1315,7 +1315,7 @@
     <timezone>Europe/Chisinau</timezone>
   </country>
   <country>
-    <id>149</id>
+    <id>147</id>
     <name>Monaco</name>
     <code>MC</code>
     <code4></code4>
@@ -1324,7 +1324,7 @@
     <timezone>Europe/Monaco</timezone>
   </country>
   <country>
-    <id>150</id>
+    <id>148</id>
     <name>Mongolia</name>
     <code>MN</code>
     <code4>ru_MO</code4>
@@ -1333,7 +1333,7 @@
     <timezone>Asia/Ulaanbaatar</timezone>
   </country>
   <country>
-    <id>151</id>
+    <id>149</id>
     <name>Montenegro</name>
     <code>ME</code>
     <code4></code4>
@@ -1342,7 +1342,7 @@
     <timezone>Europe/Podgorica</timezone>
   </country>
   <country>
-    <id>152</id>
+    <id>150</id>
     <name>Montserrat</name>
     <code>MS</code>
     <code4>ms_MY</code4>
@@ -1351,7 +1351,7 @@
     <timezone>America/Montserrat</timezone>
   </country>
   <country>
-    <id>153</id>
+    <id>151</id>
     <name>Morocco</name>
     <code>MA</code>
     <code4></code4>
@@ -1360,7 +1360,7 @@
     <timezone>Africa/Casablanca</timezone>
   </country>
   <country>
-    <id>154</id>
+    <id>152</id>
     <name>Mozambique</name>
     <code>MZ</code>
     <code4></code4>
@@ -1369,7 +1369,7 @@
     <timezone>Africa/Maputo</timezone>
   </country>
   <country>
-    <id>155</id>
+    <id>153</id>
     <name>Myanmar [Burma]</name>
     <code>MM</code>
     <code4></code4>
@@ -1378,7 +1378,7 @@
     <timezone>Asia/Rangoon</timezone>
   </country>
   <country>
-    <id>156</id>
+    <id>154</id>
     <name>Namibia</name>
     <code>NA</code>
     <code4></code4>
@@ -1387,7 +1387,7 @@
     <timezone>Africa/Windhoek</timezone>
   </country>
   <country>
-    <id>157</id>
+    <id>155</id>
     <name>Nauru</name>
     <code>NR</code>
     <code4></code4>
@@ -1396,7 +1396,7 @@
     <timezone>Pacific/Nauru</timezone>
   </country>
   <country>
-    <id>158</id>
+    <id>156</id>
     <name>Nepal</name>
     <code>NP</code>
     <code4></code4>
@@ -1405,7 +1405,7 @@
     <timezone>Asia/Kathmandu</timezone>
   </country>
   <country>
-    <id>159</id>
+    <id>157</id>
     <name>Netherlands</name>
     <code>NL</code>
     <code4>nl_NL</code4>
@@ -1414,7 +1414,7 @@
     <timezone>Europe/Amsterdam</timezone>
   </country>
   <country>
-    <id>160</id>
+    <id>158</id>
     <name>Netherlands Antilles</name>
     <code>AN</code>
     <code4></code4>
@@ -1423,7 +1423,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>161</id>
+    <id>159</id>
     <name>Neutral Zone</name>
     <code>NT</code>
     <code4></code4>
@@ -1432,7 +1432,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>162</id>
+    <id>160</id>
     <name>New Caledonia</name>
     <code>NC</code>
     <code4></code4>
@@ -1441,7 +1441,7 @@
     <timezone>Pacific/Noumea</timezone>
   </country>
   <country>
-    <id>163</id>
+    <id>161</id>
     <name>New Zealand</name>
     <code>NZ</code>
     <code4></code4>
@@ -1450,7 +1450,7 @@
     <timezone>Pacific/Auckland</timezone>
   </country>
   <country>
-    <id>164</id>
+    <id>162</id>
     <name>Nicaragua</name>
     <code>NI</code>
     <code4></code4>
@@ -1459,7 +1459,7 @@
     <timezone>America/Managua</timezone>
   </country>
   <country>
-    <id>165</id>
+    <id>163</id>
     <name>Niger</name>
     <code>NE</code>
     <code4></code4>
@@ -1468,7 +1468,7 @@
     <timezone>Africa/Niamey</timezone>
   </country>
   <country>
-    <id>166</id>
+    <id>164</id>
     <name>Nigeria</name>
     <code>NG</code>
     <code4></code4>
@@ -1477,7 +1477,7 @@
     <timezone>Africa/Lagos</timezone>
   </country>
   <country>
-    <id>167</id>
+    <id>165</id>
     <name>Niue</name>
     <code>NU</code>
     <code4></code4>
@@ -1486,7 +1486,7 @@
     <timezone>Pacific/Niue</timezone>
   </country>
   <country>
-    <id>168</id>
+    <id>166</id>
     <name>Norfolk Island</name>
     <code>NF</code>
     <code4></code4>
@@ -1495,7 +1495,7 @@
     <timezone>Pacific/Norfolk</timezone>
   </country>
   <country>
-    <id>169</id>
+    <id>167</id>
     <name>North Korea</name>
     <code>KP</code>
     <code4></code4>
@@ -1504,7 +1504,7 @@
     <timezone>Asia/Pyongyang</timezone>
   </country>
   <country>
-    <id>170</id>
+    <id>168</id>
     <name>North Vietnam</name>
     <code>VD</code>
     <code4></code4>
@@ -1513,7 +1513,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>171</id>
+    <id>169</id>
     <name>Northern Mariana Islands</name>
     <code>MP</code>
     <code4></code4>
@@ -1522,7 +1522,7 @@
     <timezone>Pacific/Saipan</timezone>
   </country>
   <country>
-    <id>172</id>
+    <id>170</id>
     <name>Norway</name>
     <code>NO</code>
     <code4>no_NO</code4>
@@ -1531,7 +1531,7 @@
     <timezone>Europe/Oslo</timezone>
   </country>
   <country>
-    <id>173</id>
+    <id>171</id>
     <name>Oman</name>
     <code>OM</code>
     <code4></code4>
@@ -1540,7 +1540,7 @@
     <timezone>Asia/Muscat</timezone>
   </country>
   <country>
-    <id>174</id>
+    <id>172</id>
     <name>Pacific Islands Trust Territory</name>
     <code>PC</code>
     <code4></code4>
@@ -1549,7 +1549,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>175</id>
+    <id>173</id>
     <name>Pakistan</name>
     <code>PK</code>
     <code4></code4>
@@ -1558,7 +1558,7 @@
     <timezone>Asia/Karachi</timezone>
   </country>
   <country>
-    <id>176</id>
+    <id>174</id>
     <name>Palau</name>
     <code>PW</code>
     <code4></code4>
@@ -1567,7 +1567,7 @@
     <timezone>Pacific/Palau</timezone>
   </country>
   <country>
-    <id>177</id>
+    <id>175</id>
     <name>Palestinian Territories</name>
     <code>PS</code>
     <code4></code4>
@@ -1576,7 +1576,7 @@
     <timezone>Asia/Gaza</timezone>
   </country>
   <country>
-    <id>178</id>
+    <id>176</id>
     <name>Panama</name>
     <code>PA</code>
     <code4></code4>
@@ -1585,7 +1585,7 @@
     <timezone>America/Panama</timezone>
   </country>
   <country>
-    <id>179</id>
+    <id>177</id>
     <name>Panama Canal Zone</name>
     <code>PZ</code>
     <code4></code4>
@@ -1594,7 +1594,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>180</id>
+    <id>178</id>
     <name>Papua New Guinea</name>
     <code>PG</code>
     <code4></code4>
@@ -1603,7 +1603,7 @@
     <timezone>Pacific/Port_Moresby</timezone>
   </country>
   <country>
-    <id>181</id>
+    <id>179</id>
     <name>Paraguay</name>
     <code>PY</code>
     <code4></code4>
@@ -1612,7 +1612,7 @@
     <timezone>America/Asuncion</timezone>
   </country>
   <country>
-    <id>182</id>
+    <id>180</id>
     <name>People's Democratic Republic of Yemen</name>
     <code>YD</code>
     <code4></code4>
@@ -1621,7 +1621,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>183</id>
+    <id>181</id>
     <name>Peru</name>
     <code>PE</code>
     <code4></code4>
@@ -1630,7 +1630,7 @@
     <timezone>America/Lima</timezone>
   </country>
   <country>
-    <id>184</id>
+    <id>182</id>
     <name>Philippines</name>
     <code>PH</code>
     <code4></code4>
@@ -1639,7 +1639,7 @@
     <timezone>Asia/Manila</timezone>
   </country>
   <country>
-    <id>185</id>
+    <id>183</id>
     <name>Pitcairn Islands</name>
     <code>PN</code>
     <code4></code4>
@@ -1648,7 +1648,7 @@
     <timezone>Pacific/Pitcairn</timezone>
   </country>
   <country>
-    <id>186</id>
+    <id>184</id>
     <name>Poland</name>
     <code>PL</code>
     <code4>pl_PL</code4>
@@ -1657,7 +1657,7 @@
     <timezone>Europe/Warsaw</timezone>
   </country>
   <country>
-    <id>187</id>
+    <id>185</id>
     <name>Portugal</name>
     <code>PT</code>
     <code4>pt_PT</code4>
@@ -1666,7 +1666,7 @@
     <timezone>Europe/Lisbon</timezone>
   </country>
   <country>
-    <id>188</id>
+    <id>186</id>
     <name>Puerto Rico</name>
     <code>PR</code>
     <code4></code4>
@@ -1675,7 +1675,7 @@
     <timezone>America/Puerto_Rico</timezone>
   </country>
   <country>
-    <id>189</id>
+    <id>187</id>
     <name>Qatar</name>
     <code>QA</code>
     <code4></code4>
@@ -1684,7 +1684,7 @@
     <timezone>Asia/Qatar</timezone>
   </country>
   <country>
-    <id>190</id>
+    <id>188</id>
     <name>Romania</name>
     <code>RO</code>
     <code4>ro_RO</code4>
@@ -1693,7 +1693,7 @@
     <timezone>Europe/Bucharest</timezone>
   </country>
   <country>
-    <id>191</id>
+    <id>189</id>
     <name>Russia</name>
     <code>RU</code>
     <code4>ru_RU</code4>
@@ -1702,7 +1702,7 @@
     <timezone>Europe/Moscow</timezone>
   </country>
   <country>
-    <id>192</id>
+    <id>190</id>
     <name>Rwanda</name>
     <code>RW</code>
     <code4></code4>
@@ -1711,7 +1711,7 @@
     <timezone>Africa/Kigali</timezone>
   </country>
   <country>
-    <id>193</id>
+    <id>191</id>
     <name>Réunion</name>
     <code>RE</code>
     <code4></code4>
@@ -1720,7 +1720,7 @@
     <timezone>Indian/Reunion</timezone>
   </country>
   <country>
-    <id>194</id>
+    <id>192</id>
     <name>Saint Barthélemy</name>
     <code>BL</code>
     <code4></code4>
@@ -1729,7 +1729,7 @@
     <timezone>America/St_Barthelemy</timezone>
   </country>
   <country>
-    <id>195</id>
+    <id>193</id>
     <name>Saint Helena</name>
     <code>SH</code>
     <code4></code4>
@@ -1738,7 +1738,7 @@
     <timezone>Atlantic/St_Helena</timezone>
   </country>
   <country>
-    <id>196</id>
+    <id>194</id>
     <name>Saint Kitts and Nevis</name>
     <code>KN</code>
     <code4>kn_IN</code4>
@@ -1747,7 +1747,7 @@
     <timezone>America/St_Kitts</timezone>
   </country>
   <country>
-    <id>197</id>
+    <id>195</id>
     <name>Saint Lucia</name>
     <code>LC</code>
     <code4></code4>
@@ -1756,7 +1756,7 @@
     <timezone>America/St_Lucia</timezone>
   </country>
   <country>
-    <id>198</id>
+    <id>196</id>
     <name>Saint Martin</name>
     <code>MF</code>
     <code4></code4>
@@ -1765,7 +1765,7 @@
     <timezone>America/Marigot</timezone>
   </country>
   <country>
-    <id>199</id>
+    <id>197</id>
     <name>Saint Pierre and Miquelon</name>
     <code>PM</code>
     <code4></code4>
@@ -1774,7 +1774,7 @@
     <timezone>America/Miquelon</timezone>
   </country>
   <country>
-    <id>200</id>
+    <id>198</id>
     <name>Saint Vincent and the Grenadines</name>
     <code>VC</code>
     <code4></code4>
@@ -1783,7 +1783,7 @@
     <timezone>America/St_Vincent</timezone>
   </country>
   <country>
-    <id>201</id>
+    <id>199</id>
     <name>Samoa</name>
     <code>WS</code>
     <code4></code4>
@@ -1792,7 +1792,7 @@
     <timezone>Pacific/Apia</timezone>
   </country>
   <country>
-    <id>202</id>
+    <id>200</id>
     <name>San Marino</name>
     <code>SM</code>
     <code4></code4>
@@ -1801,7 +1801,7 @@
     <timezone>Europe/San_Marino</timezone>
   </country>
   <country>
-    <id>203</id>
+    <id>201</id>
     <name>Saudi Arabia</name>
     <code>SA</code>
     <code4></code4>
@@ -1810,7 +1810,7 @@
     <timezone>Asia/Riyadh</timezone>
   </country>
   <country>
-    <id>204</id>
+    <id>202</id>
     <name>Senegal</name>
     <code>SN</code>
     <code4></code4>
@@ -1819,7 +1819,7 @@
     <timezone>Africa/Dakar</timezone>
   </country>
   <country>
-    <id>205</id>
+    <id>203</id>
     <name>Serbia</name>
     <code>RS</code>
     <code4></code4>
@@ -1828,7 +1828,7 @@
     <timezone>Europe/Belgrade</timezone>
   </country>
   <country>
-    <id>206</id>
+    <id>204</id>
     <name>Serbia and Montenegro</name>
     <code>CS</code>
     <code4>cs_CZ</code4>
@@ -1837,7 +1837,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>207</id>
+    <id>205</id>
     <name>Seychelles</name>
     <code>SC</code>
     <code4></code4>
@@ -1846,7 +1846,7 @@
     <timezone>Indian/Mahe</timezone>
   </country>
   <country>
-    <id>208</id>
+    <id>206</id>
     <name>Sierra Leone</name>
     <code>SL</code>
     <code4>sl_SI</code4>
@@ -1855,7 +1855,7 @@
     <timezone>Africa/Freetown</timezone>
   </country>
   <country>
-    <id>209</id>
+    <id>207</id>
     <name>Singapore</name>
     <code>SG</code>
     <code4></code4>
@@ -1864,7 +1864,7 @@
     <timezone>Asia/Singapore</timezone>
   </country>
   <country>
-    <id>210</id>
+    <id>208</id>
     <name>Slovakia</name>
     <code>SK</code>
     <code4>sk_SK</code4>
@@ -1873,7 +1873,7 @@
     <timezone>Europe/Bratislava</timezone>
   </country>
   <country>
-    <id>211</id>
+    <id>209</id>
     <name>Slovenia</name>
     <code>SI</code>
     <code4>si_LK</code4>
@@ -1882,7 +1882,7 @@
     <timezone>Europe/Ljubljana</timezone>
   </country>
   <country>
-    <id>212</id>
+    <id>210</id>
     <name>Solomon Islands</name>
     <code>SB</code>
     <code4></code4>
@@ -1891,7 +1891,7 @@
     <timezone>Pacific/Guadalcanal</timezone>
   </country>
   <country>
-    <id>213</id>
+    <id>211</id>
     <name>Somalia</name>
     <code>SO</code>
     <code4>so_SO</code4>
@@ -1900,7 +1900,7 @@
     <timezone>Africa/Mogadishu</timezone>
   </country>
   <country>
-    <id>214</id>
+    <id>212</id>
     <name>South Africa</name>
     <code>ZA</code>
     <code4></code4>
@@ -1909,7 +1909,7 @@
     <timezone>Africa/Johannesburg</timezone>
   </country>
   <country>
-    <id>215</id>
+    <id>213</id>
     <name>South Georgia and the South Sandwich Islands</name>
     <code>GS</code>
     <code4></code4>
@@ -1918,7 +1918,7 @@
     <timezone>Atlantic/South_Georgia</timezone>
   </country>
   <country>
-    <id>216</id>
+    <id>214</id>
     <name>South Korea</name>
     <code>KR</code>
     <code4></code4>
@@ -1927,7 +1927,7 @@
     <timezone>Asia/Seoul</timezone>
   </country>
   <country>
-    <id>217</id>
+    <id>215</id>
     <name>Spain</name>
     <code>ES</code>
     <code4>es_ES</code4>
@@ -1936,7 +1936,7 @@
     <timezone>Europe/Madrid</timezone>
   </country>
   <country>
-    <id>218</id>
+    <id>216</id>
     <name>Sri Lanka</name>
     <code>LK</code>
     <code4></code4>
@@ -1945,7 +1945,7 @@
     <timezone>Asia/Colombo</timezone>
   </country>
   <country>
-    <id>219</id>
+    <id>217</id>
     <name>Sudan</name>
     <code>SD</code>
     <code4></code4>
@@ -1954,7 +1954,7 @@
     <timezone>Africa/Khartoum</timezone>
   </country>
   <country>
-    <id>220</id>
+    <id>218</id>
     <name>Suriname</name>
     <code>SR</code>
     <code4>sr_RS</code4>
@@ -1963,7 +1963,7 @@
     <timezone>America/Paramaribo</timezone>
   </country>
   <country>
-    <id>221</id>
+    <id>219</id>
     <name>Svalbard and Jan Mayen</name>
     <code>SJ</code>
     <code4></code4>
@@ -1972,7 +1972,7 @@
     <timezone>Arctic/Longyearbyen</timezone>
   </country>
   <country>
-    <id>222</id>
+    <id>220</id>
     <name>Swaziland</name>
     <code>SZ</code>
     <code4></code4>
@@ -1981,7 +1981,7 @@
     <timezone>Africa/Mbabane</timezone>
   </country>
   <country>
-    <id>223</id>
+    <id>221</id>
     <name>Sweden</name>
     <code>SE</code>
     <code4></code4>
@@ -1990,7 +1990,7 @@
     <timezone>Europe/Stockholm</timezone>
   </country>
   <country>
-    <id>224</id>
+    <id>222</id>
     <name>Switzerland</name>
     <code>CH</code>
     <code4></code4>
@@ -1999,7 +1999,7 @@
     <timezone>Europe/Zurich</timezone>
   </country>
   <country>
-    <id>225</id>
+    <id>223</id>
     <name>Syria</name>
     <code>SY</code>
     <code4></code4>
@@ -2008,7 +2008,7 @@
     <timezone>Asia/Damascus</timezone>
   </country>
   <country>
-    <id>226</id>
+    <id>224</id>
     <name>São Tomé and Príncipe</name>
     <code>ST</code>
     <code4>st_ZA</code4>
@@ -2017,7 +2017,7 @@
     <timezone>Africa/Sao_Tome</timezone>
   </country>
   <country>
-    <id>227</id>
+    <id>225</id>
     <name>Taiwan</name>
     <code>TW</code>
     <code4>n/a</code4>
@@ -2026,7 +2026,7 @@
     <timezone>Asia/Taipei</timezone>
   </country>
   <country>
-    <id>228</id>
+    <id>226</id>
     <name>Tajikistan</name>
     <code>TJ</code>
     <code4></code4>
@@ -2035,7 +2035,7 @@
     <timezone>Asia/Dushanbe</timezone>
   </country>
   <country>
-    <id>229</id>
+    <id>227</id>
     <name>Tanzania</name>
     <code>TZ</code>
     <code4></code4>
@@ -2044,7 +2044,7 @@
     <timezone>Africa/Dar_es_Salaam</timezone>
   </country>
   <country>
-    <id>230</id>
+    <id>228</id>
     <name>Thailand</name>
     <code>TH</code>
     <code4>th_TH</code4>
@@ -2053,7 +2053,7 @@
     <timezone>Asia/Bangkok</timezone>
   </country>
   <country>
-    <id>231</id>
+    <id>229</id>
     <name>Timor-Leste</name>
     <code>TL</code>
     <code4></code4>
@@ -2062,7 +2062,7 @@
     <timezone>Asia/Dili</timezone>
   </country>
   <country>
-    <id>232</id>
+    <id>230</id>
     <name>Togo</name>
     <code>TG</code>
     <code4>tg_TJ</code4>
@@ -2071,7 +2071,7 @@
     <timezone>Africa/Lome</timezone>
   </country>
   <country>
-    <id>233</id>
+    <id>231</id>
     <name>Tokelau</name>
     <code>TK</code>
     <code4>tk_TM</code4>
@@ -2080,7 +2080,7 @@
     <timezone>Pacific/Fakaofo</timezone>
   </country>
   <country>
-    <id>234</id>
+    <id>232</id>
     <name>Tonga</name>
     <code>TO</code>
     <code4></code4>
@@ -2089,7 +2089,7 @@
     <timezone>Pacific/Tongatapu</timezone>
   </country>
   <country>
-    <id>235</id>
+    <id>233</id>
     <name>Trinidad and Tobago</name>
     <code>TT</code>
     <code4>tt_RU</code4>
@@ -2098,7 +2098,7 @@
     <timezone>America/Port_of_Spain</timezone>
   </country>
   <country>
-    <id>236</id>
+    <id>234</id>
     <name>Tunisia</name>
     <code>TN</code>
     <code4></code4>
@@ -2107,7 +2107,7 @@
     <timezone>Africa/Tunis</timezone>
   </country>
   <country>
-    <id>237</id>
+    <id>235</id>
     <name>Turkey</name>
     <code>TR</code>
     <code4>tr_TR</code4>
@@ -2116,7 +2116,7 @@
     <timezone>Europe/Istanbul</timezone>
   </country>
   <country>
-    <id>238</id>
+    <id>236</id>
     <name>Turkmenistan</name>
     <code>TM</code>
     <code4></code4>
@@ -2125,7 +2125,7 @@
     <timezone>Asia/Ashgabat</timezone>
   </country>
   <country>
-    <id>239</id>
+    <id>237</id>
     <name>Turks and Caicos Islands</name>
     <code>TC</code>
     <code4></code4>
@@ -2134,7 +2134,7 @@
     <timezone>America/Grand_Turk</timezone>
   </country>
   <country>
-    <id>240</id>
+    <id>238</id>
     <name>Tuvalu</name>
     <code>TV</code>
     <code4></code4>
@@ -2143,7 +2143,7 @@
     <timezone>Pacific/Funafuti</timezone>
   </country>
   <country>
-    <id>241</id>
+    <id>239</id>
     <name>U.S. Minor Outlying Islands</name>
     <code>UM</code>
     <code4></code4>
@@ -2152,7 +2152,7 @@
     <timezone>Pacific/Wake</timezone>
   </country>
   <country>
-    <id>242</id>
+    <id>240</id>
     <name>U.S. Miscellaneous Pacific Islands</name>
     <code>PU</code>
     <code4></code4>
@@ -2161,7 +2161,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>243</id>
+    <id>241</id>
     <name>U.S. Virgin Islands</name>
     <code>VI</code>
     <code4>vi_VN</code4>
@@ -2170,7 +2170,7 @@
     <timezone>America/St_Thomas</timezone>
   </country>
   <country>
-    <id>244</id>
+    <id>242</id>
     <name>Uganda</name>
     <code>UG</code>
     <code4></code4>
@@ -2179,7 +2179,7 @@
     <timezone>Africa/Kampala</timezone>
   </country>
   <country>
-    <id>245</id>
+    <id>243</id>
     <name>Ukraine</name>
     <code>UA</code>
     <code4></code4>
@@ -2188,7 +2188,7 @@
     <timezone>Europe/Kiev</timezone>
   </country>
   <country>
-    <id>246</id>
+    <id>244</id>
     <name>Union of Soviet Socialist Republics</name>
     <code>SU</code>
     <code4>su_ID</code4>
@@ -2197,7 +2197,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>247</id>
+    <id>245</id>
     <name>United Arab Emirates</name>
     <code>AE</code>
     <code4>en_AU</code4>
@@ -2206,7 +2206,7 @@
     <timezone>Asia/Dubai</timezone>
   </country>
   <country>
-    <id>248</id>
+    <id>246</id>
     <name>United Kingdom</name>
     <code>GB</code>
     <code4>en_GB</code4>
@@ -2215,7 +2215,7 @@
     <timezone>Europe/London</timezone>
   </country>
   <country>
-    <id>249</id>
+    <id>247</id>
     <name>United States</name>
     <code>US</code>
     <code4>en_US</code4>
@@ -2224,7 +2224,7 @@
     <timezone>America/New_York</timezone>
   </country>
   <country>
-    <id>250</id>
+    <id>248</id>
     <name>Unknown or Invalid Region</name>
     <code>ZZ</code>
     <code4></code4>
@@ -2233,7 +2233,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>251</id>
+    <id>249</id>
     <name>Uruguay</name>
     <code>UY</code>
     <code4></code4>
@@ -2242,7 +2242,7 @@
     <timezone>America/Montevideo</timezone>
   </country>
   <country>
-    <id>252</id>
+    <id>250</id>
     <name>Uzbekistan</name>
     <code>UZ</code>
     <code4>uz_UZ</code4>
@@ -2251,7 +2251,7 @@
     <timezone>Asia/Tashkent</timezone>
   </country>
   <country>
-    <id>253</id>
+    <id>251</id>
     <name>Vanuatu</name>
     <code>VU</code>
     <code4></code4>
@@ -2260,7 +2260,7 @@
     <timezone>Pacific/Efate</timezone>
   </country>
   <country>
-    <id>254</id>
+    <id>252</id>
     <name>Vatican City</name>
     <code>VA</code>
     <code4></code4>
@@ -2269,7 +2269,7 @@
     <timezone>Europe/Vatican</timezone>
   </country>
   <country>
-    <id>255</id>
+    <id>253</id>
     <name>Venezuela</name>
     <code>VE</code>
     <code4></code4>
@@ -2278,7 +2278,7 @@
     <timezone>America/Caracas</timezone>
   </country>
   <country>
-    <id>256</id>
+    <id>254</id>
     <name>Vietnam</name>
     <code>VN</code>
     <code4></code4>
@@ -2287,7 +2287,7 @@
     <timezone>Asia/Ho_Chi_Minh</timezone>
   </country>
   <country>
-    <id>257</id>
+    <id>255</id>
     <name>Wake Island</name>
     <code>WK</code>
     <code4></code4>
@@ -2296,7 +2296,7 @@
     <timezone>Antarctica/South_Pole</timezone>
   </country>
   <country>
-    <id>258</id>
+    <id>256</id>
     <name>Wallis and Futuna</name>
     <code>WF</code>
     <code4></code4>
@@ -2305,7 +2305,7 @@
     <timezone>Pacific/Wallis</timezone>
   </country>
   <country>
-    <id>259</id>
+    <id>257</id>
     <name>Western Sahara</name>
     <code>EH</code>
     <code4></code4>
@@ -2314,7 +2314,7 @@
     <timezone>Africa/El_Aaiun</timezone>
   </country>
   <country>
-    <id>260</id>
+    <id>258</id>
     <name>Yemen</name>
     <code>YE</code>
     <code4></code4>
@@ -2323,7 +2323,7 @@
     <timezone>Asia/Aden</timezone>
   </country>
   <country>
-    <id>261</id>
+    <id>259</id>
     <name>Zambia</name>
     <code>ZM</code>
     <code4></code4>
@@ -2332,7 +2332,7 @@
     <timezone>Africa/Lusaka</timezone>
   </country>
   <country>
-    <id>262</id>
+    <id>260</id>
     <name>Zimbabwe</name>
     <code>ZW</code>
     <code4></code4>
@@ -2341,7 +2341,7 @@
     <timezone>Africa/Harare</timezone>
   </country>
   <country>
-    <id>263</id>
+    <id>261</id>
     <name>Åland Islands</name>
     <code>AX</code>
     <code4></code4>
